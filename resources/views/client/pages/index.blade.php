@@ -10,15 +10,15 @@
                         <div class="row">
                             <div class="col-12">
                                 <div class="s-slider-content t-slider-content text-center">
-                                    <h6 data-animation="fadeInUp" data-delay=".2s"><span
-                                            class="dots"></span>TransAtlantic Delivery Lines<span
-                                            class="dots2"></span></h6>
-                                    <h2 data-animation="fadeInUp" data-delay=".4s">Express Delivery</h2>
-                                    <p data-animation="fadeInUp" data-delay=".6s">At Trans Atlantic Delivery Lines our teams
-                                        work 24/7 to ensure your package is sealed and ship to you as soon as possible using
-                                        your prefered means of transportation.</p>
+                                    <h6 data-animation="fadeInUp" data-delay=".2s"><span class="dots"></span>Lorem
+                                        ipsum lorem ipsum<span class="dots2"></span></h6>
+                                    <h2 data-animation="fadeInUp" data-delay=".4s">lorem ipsum</h2>
+                                    <p data-animation="fadeInUp" data-delay=".6s">Lorem ipsum dolor sit amet consectetur
+                                        adipisicing elit. Voluptates ipsa asperiores nihil possimus nemo id aliquam
+                                        repellat, cupiditate aut optio, nostrum odio? Vel, a. Sunt eum dolore alias ipsum
+                                        autem.</p>
                                     <a href="tracking.html" class="btn red-btn" data-animation="fadeInUp"
-                                        data-delay=".8s">Track And Trace</a>
+                                        data-delay=".8s">lorem ipsum</a>
                                 </div>
                             </div>
                         </div>
@@ -397,10 +397,10 @@
                             </div>
                         </div>
                         <!-- <div class="col-lg-3">
-                                    <div class="video-play">
-                                        <img src="img/icon/play_btn.png" alt="img">
-                                    </div>
-                                </div> -->
+                                        <div class="video-play">
+                                            <img src="img/icon/play_btn.png" alt="img">
+                                        </div>
+                                    </div> -->
                     </div>
                 </div>
             </div>
@@ -409,204 +409,204 @@
 
         <!-- rating-area -->
         <!-- <section class="rating-area pt-110 pb-50">
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="col-xl-7 col-lg-10">
-                                <div class="s-section-title text-center mb-80">
-                                    <h2>What customers are thinking?</h2>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="rating-wrap">
-                            <div class="row">
-                                <div class="col-lg-6">
-                                    <div class="single-customer-rating mb-70">
-                                        <div class="customer-rating-top">
-                                            <div class="customer-thumb">
-                                                <a href="#"><img src="img/images/rating_logo.jpg" alt="img"></a>
-                                                <div class="rating-info">
-                                                    <h6>Overall Rating</h6>
-                                                    <div class="raising-star mb-15">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                    </div>
-                                                    <h3>3.5</h3>
-                                                </div>
-                                                <span>based on 3458 ratings</span>
-                                            </div>
-                                        </div>
-                                        <div class="rating-list">
-                                            <ul>
-                                                <li>
-                                                    On Time Delivery
-                                                    <span>3.5</span>
-                                                    <div class="raising-star">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    Delivery experience
-                                                    <span>4.5</span>
-                                                    <div class="raising-star">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="single-customer-rating mb-70">
-                                        <div class="customer-rating-top">
-                                            <div class="customer-thumb">
-                                                <a href="#"><img src="img/images/rating_logo03.jpg" alt="img"></a>
-                                                <div class="rating-info">
-                                                    <h6>Overall Rating</h6>
-                                                    <div class="raising-star mb-15">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                    </div>
-                                                    <h3>3.5</h3>
-                                                </div>
-                                                <span>based on 3458 ratings</span>
-                                            </div>
-                                        </div>
-                                        <div class="rating-list">
-                                            <ul>
-                                                <li>
-                                                    On Time Delivery
-                                                    <span>3.5</span>
-                                                    <div class="raising-star">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    Delivery experience
-                                                    <span>4.5</span>
-                                                    <div class="raising-star">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6">
-                                    <div class="single-customer-rating mb-70">
-                                        <div class="customer-rating-top">
-                                            <div class="customer-thumb">
-                                                <a href="#"><img src="img/images/rating_logo02.jpg" alt="img"></a>
-                                                <div class="rating-info">
-                                                    <h6>Overall Rating</h6>
-                                                    <div class="raising-star mb-15">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                    </div>
-                                                    <h3>3.5</h3>
-                                                </div>
-                                                <span>based on 3458 ratings</span>
-                                            </div>
-                                        </div>
-                                        <div class="rating-list">
-                                            <ul>
-                                                <li>
-                                                    On Time Delivery
-                                                    <span>3.5</span>
-                                                    <div class="raising-star">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    Delivery experience
-                                                    <span>4.5</span>
-                                                    <div class="raising-star">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="single-customer-rating mb-70">
-                                        <div class="customer-rating-top">
-                                            <div class="customer-thumb">
-                                                <a href="#"><img src="img/images/rating_logo04.jpg" alt="img"></a>
-                                                <div class="rating-info">
-                                                    <h6>Overall Rating</h6>
-                                                    <div class="raising-star mb-15">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                    </div>
-                                                    <h3>3.5</h3>
-                                                </div>
-                                                <span>based on 3458 ratings</span>
-                                            </div>
-                                        </div>
-                                        <div class="rating-list">
-                                            <ul>
-                                                <li>
-                                                    On Time Delivery
-                                                    <span>3.5</span>
-                                                    <div class="raising-star">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    Delivery experience
-                                                    <span>4.5</span>
-                                                    <div class="raising-star">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </div>
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-xl-7 col-lg-10">
+                                    <div class="s-section-title text-center mb-80">
+                                        <h2>What customers are thinking?</h2>
                                     </div>
                                 </div>
                             </div>
+                            <div class="rating-wrap">
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <div class="single-customer-rating mb-70">
+                                            <div class="customer-rating-top">
+                                                <div class="customer-thumb">
+                                                    <a href="#"><img src="img/images/rating_logo.jpg" alt="img"></a>
+                                                    <div class="rating-info">
+                                                        <h6>Overall Rating</h6>
+                                                        <div class="raising-star mb-15">
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                        </div>
+                                                        <h3>3.5</h3>
+                                                    </div>
+                                                    <span>based on 3458 ratings</span>
+                                                </div>
+                                            </div>
+                                            <div class="rating-list">
+                                                <ul>
+                                                    <li>
+                                                        On Time Delivery
+                                                        <span>3.5</span>
+                                                        <div class="raising-star">
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        Delivery experience
+                                                        <span>4.5</span>
+                                                        <div class="raising-star">
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="single-customer-rating mb-70">
+                                            <div class="customer-rating-top">
+                                                <div class="customer-thumb">
+                                                    <a href="#"><img src="img/images/rating_logo03.jpg" alt="img"></a>
+                                                    <div class="rating-info">
+                                                        <h6>Overall Rating</h6>
+                                                        <div class="raising-star mb-15">
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                        </div>
+                                                        <h3>3.5</h3>
+                                                    </div>
+                                                    <span>based on 3458 ratings</span>
+                                                </div>
+                                            </div>
+                                            <div class="rating-list">
+                                                <ul>
+                                                    <li>
+                                                        On Time Delivery
+                                                        <span>3.5</span>
+                                                        <div class="raising-star">
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        Delivery experience
+                                                        <span>4.5</span>
+                                                        <div class="raising-star">
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="single-customer-rating mb-70">
+                                            <div class="customer-rating-top">
+                                                <div class="customer-thumb">
+                                                    <a href="#"><img src="img/images/rating_logo02.jpg" alt="img"></a>
+                                                    <div class="rating-info">
+                                                        <h6>Overall Rating</h6>
+                                                        <div class="raising-star mb-15">
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                        </div>
+                                                        <h3>3.5</h3>
+                                                    </div>
+                                                    <span>based on 3458 ratings</span>
+                                                </div>
+                                            </div>
+                                            <div class="rating-list">
+                                                <ul>
+                                                    <li>
+                                                        On Time Delivery
+                                                        <span>3.5</span>
+                                                        <div class="raising-star">
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        Delivery experience
+                                                        <span>4.5</span>
+                                                        <div class="raising-star">
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="single-customer-rating mb-70">
+                                            <div class="customer-rating-top">
+                                                <div class="customer-thumb">
+                                                    <a href="#"><img src="img/images/rating_logo04.jpg" alt="img"></a>
+                                                    <div class="rating-info">
+                                                        <h6>Overall Rating</h6>
+                                                        <div class="raising-star mb-15">
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                        </div>
+                                                        <h3>3.5</h3>
+                                                    </div>
+                                                    <span>based on 3458 ratings</span>
+                                                </div>
+                                            </div>
+                                            <div class="rating-list">
+                                                <ul>
+                                                    <li>
+                                                        On Time Delivery
+                                                        <span>3.5</span>
+                                                        <div class="raising-star">
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        Delivery experience
+                                                        <span>4.5</span>
+                                                        <div class="raising-star">
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                </section> -->
+                    </section> -->
         <!-- rating-area-end -->
 
     </main>
