@@ -5,7 +5,7 @@
         <!-- slider-area -->
         <section class="slider-style-three">
             <div class="slider-active">
-                <div class="single-slider t-slider-area" style="background-image: url(img/slider/pp.jpg);">
+                <div class="single-slider t-slider-area" style="background-image: url({{asset('assets/img/slider/pp.jpg')}});">
                     <div class="container">
                         <div class="row">
                             <div class="col-12">
@@ -13,10 +13,7 @@
                                     <h6 data-animation="fadeInUp" data-delay=".2s"><span class="dots"></span>Lorem
                                         ipsum lorem ipsum<span class="dots2"></span></h6>
                                     <h2 data-animation="fadeInUp" data-delay=".4s">lorem ipsum</h2>
-                                    <p data-animation="fadeInUp" data-delay=".6s">Lorem ipsum dolor sit amet consectetur
-                                        adipisicing elit. Voluptates ipsa asperiores nihil possimus nemo id aliquam
-                                        repellat, cupiditate aut optio, nostrum odio? Vel, a. Sunt eum dolore alias ipsum
-                                        autem.</p>
+                                    <p data-animation="fadeInUp" data-delay=".6s">Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam amet atque odit rerum. Voluptatibus, error fugit? Quaerat perferendis esse, illo sunt quam reiciendis quos, possimus corporis debitis quasi culpa similique nostrum quo saepe magni deleniti. Incidunt cupiditate quia veritatis dicta numquam, recusandae magnam unde ab. Voluptatibus soluta laboriosam impedit minus.</p>
                                     <a href="tracking.html" class="btn red-btn" data-animation="fadeInUp"
                                         data-delay=".8s">lorem ipsum</a>
                                 </div>
@@ -24,37 +21,32 @@
                         </div>
                     </div>
                 </div>
-                <div class="single-slider t-slider-area" style="background-image: url(img/slider/slider_bg04.jpg);">
+                <div class="single-slider t-slider-area" style="background-image: url({{asset('assets/img/slider/slider_bg04.jpg')}});">
                     <div class="container">
                         <div class="row">
                             <div class="col-12">
                                 <div class="s-slider-content t-slider-content text-center">
                                     <h6 data-animation="fadeInUp" data-delay=".2s"><span class="dots"></span>Trans
                                         Atlantic Delivery Lines<span class="dots2"></span></h6>
-                                    <h2 data-animation="fadeInUp" data-delay=".4s">Fast Services</h2>
-                                    <p data-animation="fadeInUp" data-delay=".6s">To DELIGHT customers with effective and
-                                        innovative supply chain solutions.</p>
+                                    <h2 data-animation="fadeInUp" data-delay=".4s">lorem ipsum</h2>
+                                    <p data-animation="fadeInUp" data-delay=".6s">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, accusamus.</p>
                                     <a href="tracking.html" class="btn red-btn" data-animation="fadeInUp"
-                                        data-delay=".8s">Track And Trace</a>
+                                        data-delay=".8s">lorem ipsum</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="single-slider t-slider-area" style="background-image: url(img/slider/slider_bg05.jpg);">
+                <div class="single-slider t-slider-area" style="background-image: url({{asset('assetsimg/slider/slider_bg05.jpg')}});>
                     <div class="container">
                         <div class="row">
                             <div class="col-12">
                                 <div class="s-slider-content t-slider-content text-center">
-                                    <h6 data-animation="fadeInUp" data-delay=".2s"><span class="dots"></span>Trans
-                                        Atlantic Delivery Lines<span class="dots2"></span></h6>
-                                    <h2 data-animation="fadeInUp" data-delay=".4s">Innovative</h2>
-                                    <p data-animation="fadeInUp" data-delay=".6s">We're curious. We push boundaries through
-                                        game-changing ideas – the kind of advances no one else thinks are possible. We have
-                                        the passion to invest in pioneering technologies that will help our customers come
-                                        out on top in the management</p>
+                                    <h6 data-animation="fadeInUp" data-delay=".2s"><span class="dots"></span>lorem ipsum<span class="dots2"></span></h6>
+                                    <h2 data-animation="fadeInUp" data-delay=".4s">lorem ipsum</h2>
+                                    <p data-animation="fadeInUp" data-delay=".6s">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias qui provident dicta! Incidunt animi eius dignissimos dolore! Quia nihil saepe aut cupiditate voluptatibus eum laudantium possimus eligendi blanditiis, doloremque vitae.</p>
                                     <a href="tracking.html" class="btn red-btn" data-animation="fadeInUp"
-                                        data-delay=".8s">TRACK AND TRACE</a>
+                                        data-delay=".8s">lorem ipsum</a>
                                 </div>
                             </div>
                         </div>
@@ -74,10 +66,8 @@
                                 <i class="flaticon-cruise"></i>
                             </div>
                             <div class="s-cat-content">
-                                <h5><a href="services-ocean.html">Sea Freight</a></h5>
-                                <p>Are you shipping with us by sea, relax Trans Atlantic Delivery Lines is bringing your
-                                    cargo to you safe and secured. <a href="tracking.html"> Track & Trace</a> to know the
-                                    status and location of your cargo at the moment. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                                <h5><a href="services-ocean.html">lorem ipsum</a></h5>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error similique necessitatibus distinctio. <a href="tracking.html"> Lorem ipsum dolor sit amet consectetur. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                                     &nbsp; &nbsp; &nbsp;</p>
                             </div>
                         </div>
@@ -88,10 +78,8 @@
                                 <i class="flaticon-air-freight"></i>
                             </div>
                             <div class="s-cat-content">
-                                <h5><a href="service-air.html">Air Freight</a></h5>
-                                <p>Are you shipping with us by air, relax Happy Tails Transportation is bringing your cargo
-                                    to you safe and secured. <a href="tracking.html"> Track & Trace</a> to know the status
-                                    and location of your cargo at the moment. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                                <h5><a href="service-air.html">lorem ipsum</a></h5>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <a href="tracking.html">lorem ipsum</a> Lorem ipsum dolor sit amet consectetur adipisicing elit. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                                     &nbsp; &nbsp;</p>
                             </div>
                         </div>
@@ -102,10 +90,9 @@
                                 <i class="flaticon-delivery-1"></i>
                             </div>
                             <div class="s-cat-content">
-                                <h5><a href="service-warehousing-and-distribution.html">Warehousing</a></h5>
-                                <p>Is your cargo deleyed or you need a warehouse? Relax Trans Atlantic Delivery Lines
-                                    Warehouse will keep your cargo safe and secured <a href="contactus.html">Contact Us</a>
-                                    to keep your cargo save and secure in our warehouse.</p>
+                                <h5><a href="service-warehousing-and-distribution.html">lorem ipsum</a></h5>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod ratione iusto quaerat possimus! <a href="contactus.html">lorem ipsum</a>
+                                   Lorem ipsum dolor sit amet consectetur.</p>
                             </div>
                         </div>
                     </div>
@@ -115,10 +102,9 @@
                                 <i class="flaticon-package"></i>
                             </div>
                             <div class="s-cat-content">
-                                <h5><a href="service-warehousing-and-distribution.html">Forwarding</a></h5>
-                                <p>Is your cargo stock or you can't access a destination somewhere? Relax, <a
-                                        href="contactus.html">Contact Us</a> and Trans Atlantic Delivery Lines will take it
-                                    from there and make sure it reaches it destination safely. &nbsp; &nbsp; &nbsp; &nbsp;
+                                <h5><a href="service-warehousing-and-distribution.html">lorem ipsum</a></h5>
+                                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. In. <a
+                                        href="contactus.html">lorem ipsum</a> Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, quibusdam molestiae. &nbsp; &nbsp; &nbsp; &nbsp;
                                     &nbsp; &nbsp; &nbsp; &nbsp;</p>
                             </div>
                         </div>
@@ -134,13 +120,9 @@
                 <div class="row justify-content-center">
                     <div class="col-xl-7 col-lg-10">
                         <div class="s-section-title text-center mb-60">
-                            <h2>Get to know us</h2>
-                            <h5>OUR STRENGTHS AND ADVANTAGES</h5>
-                            <p>At Trans Atlantic Delivery Lines, our CLients satisfaction is our priority so we strive to
-                                improve the quality of our services using new technologies and strategies to keep them ever
-                                happy. In the competitive world of logistic where cuustomer satifaction and safe delivery of
-                                parcels is the key, We have step up the game to our competitors with advance services and
-                                technologies to give you reasons why you have to choose us. </p>
+                            <h2>lorem ipsum</h2>
+                            <h5>Lorem, ipsum dolor.</h5>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint vitae cupiditate facilis recusandae ea quisquam in excepturi dignissimos corrupti accusamus. </p>
                         </div>
                     </div>
                 </div>
@@ -151,18 +133,18 @@
                     <div class="row align-items-center">
                         <div class="col-lg-6 order-0 order-lg-2">
                             <div class="int-services-img text-center text-lg-right">
-                                <img src="img/images/logistic.html" alt="img">
+                                <img src="{{asset('assetsimg/images/logistic.html')}}" alt="img">
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="s-section-title mb-30">
-                                <h2>Who are we?</h2>
-                                <h6>What we think?</h6>
+                                <h2>Lorem.</h2>
+                                <h6>Lorem, ipsum.</h6>
                             </div>
                             <div class="int-services-content">
-                                <p>“A satisfied customer is the best business strategy of all.”</p>
+                                <p>“Lorem ipsum dolor sit amet.”</p>
                                 <a href="tracking.html" class="btn red-btn" data-animation="fadeInUp"
-                                    data-delay=".8s">Track And Trace</a>
+                                    data-delay=".8s">lorem ipsum</a>
                             </div>
                         </div>
                     </div>
@@ -170,7 +152,7 @@
             </div>
             <div class="overlay-title paroller" data-paroller-factor="0.15" data-paroller-factor-lg="0.15"
                 data-paroller-factor-md="0.15" data-paroller-factor-sm="0.15" data-paroller-type="foreground"
-                data-paroller-direction="horizontal">Cargo</div>
+                data-paroller-direction="horizontal">lorem ipsum</div>
         </section>
         <!-- services-area-end -->
 
@@ -183,13 +165,13 @@
                     <div class="col-lg-6">
                         <div class="testimonial-area">
                             <div class="section-title white-title mb-55">
-                                <h6>Happy Customer Quotes</h6>
-                                <h2>Our Top Reviews</h2>
+                                <h6>Lorem ipsum dolor sit amet consectetur.</h6>
+                                <h2>Lorem ipsum dolor sit.</h2>
                             </div>
                             <div class="testimonial-active">
                                 <div class="single-testimonial">
                                     <div class="testimonial-cat mb-30">
-                                        <h5>Shipping Cargo</h5>
+                                        <h5>lorem ipsum</h5>
                                         <div class="testimonial-rating">
                                             <i class="fas fa-star"></i>
                                             <i class="fas fa-star"></i>
@@ -199,23 +181,21 @@
                                         </div>
                                     </div>
                                     <div class="testimonial-content mb-45">
-                                        <p>“I want to thank you soo much for keeping your word. All went well and Now I am
-                                            going to deliver everything through you. Thank you again Trans Atlantic Delivery
-                                            Lines, I was really impressed.”</p>
+                                        <p>“Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, sapiente amet sit ex eum voluptates?”</p>
                                     </div>
                                     <div class="testimonial-avatar">
                                         <div class="testi-avatar-img">
-                                            <img src="img/images/testi_avatar01.png" alt="img">
+                                            <img src="{{asset('assetsimg/images/testi_avatar01.png')}}" alt="img">
                                         </div>
                                         <div class="testi-avatar-info">
-                                            <h6>Tonoy Alexander</h6>
-                                            <span>Founder Cargo</span>
+                                            <h6>lorem ipsum</h6>
+                                            <span>Lorem ipsum dolor</span>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="single-testimonial">
                                     <div class="testimonial-cat mb-30">
-                                        <h5>Air Freight</h5>
+                                        <h5>lorem ipsum</h5>
                                         <div class="testimonial-rating">
                                             <i class="fas fa-star"></i>
                                             <i class="fas fa-star"></i>
@@ -225,17 +205,15 @@
                                         </div>
                                     </div>
                                     <div class="testimonial-content mb-45">
-                                        <p>“How amazing how you guys delivered so early. I thought it was going to take time
-                                            but I was wrong. Thanks so much Trans Atlantic Delivery Lines you are the best I
-                                            can ever use and ask anyone out there to use.”</p>
+                                        <p>“Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi, eligendi consequuntur! Officia velit quas corporis ipsam nemo dicta molestias ut?”</p>
                                     </div>
                                     <div class="testimonial-avatar">
                                         <div class="testi-avatar-img">
-                                            <img src="img/images/testi_avatar02.png" alt="img">
+                                            <img src="{{asset('assetsimg/images/testi_avatar02.png')}}" alt="img">
                                         </div>
                                         <div class="testi-avatar-info">
-                                            <h6>Lanu Dexander</h6>
-                                            <span>Founder Cargo</span>
+                                            <h6>lorem ipsum</h6>
+                                            <span>Lorem, ipsum dolor.</span>
                                         </div>
                                     </div>
                                 </div>
@@ -245,18 +223,18 @@
                     <div class="col-lg-6">
                         <div class="cta-area cta-pl">
                             <div class="section-title white-title mb-60">
-                                <h6>Clients Trust Us</h6>
-                                <h2>Cargo Request Quote</h2>
+                                <h6>Lorem, ipsum dolor.</h6>
+                                <h2>Lorem ipsum dolor sit.</h2>
                             </div>
                             <div class="cta-from">
                                 <form action="http://transatlanticdeliverylines.com/processcargo" method="POST">
                                     <div class="cta-form-col d-flex justify-content-between">
                                         <select name="freight" class="custom-select" required="required">
-                                            <option selected="">Select Service</option>
-                                            <option>Air Freight</option>
-                                            <option>Ocean Freight</option>
-                                            <option>Road Freight</option>
-                                            <option>Warehousing And Fowarding</option>
+                                            <option selected="">lorem ipsum</option>
+                                            <option>lorem ipsum 1</option>
+                                            <option>lorem ipsum 2</option>
+                                            <option >lorem ipsum 3</option>
+                                            <option>lorem ipsum 4</option>
                                         </select>
                                         <input type="text" name="length" placeholder="Length (cm)" required="required">
                                         <input type="text" name="height" placeholder="Height (cm)" required="required">
@@ -289,7 +267,7 @@
                 <div class="row justify-content-center">
                     <div class="col-xl-7 col-lg-10">
                         <div class="s-section-title text-center mb-60">
-                            <h2>Why should you choose us?</h2>
+                            <h2>Lorem ipsum dolor sit amet.</h2>
                         </div>
                     </div>
                 </div>
@@ -299,12 +277,12 @@
                             <div class="single-choose mb-40">
                                 <div class="choose-head">
                                     <div class="choose-icon mb-25">
-                                        <img src="img/icon/ds_icon02.png" alt="img">
+                                        <img src="{{asset('assetsimg/icon/ds_icon02.png')}}" alt="img">
                                     </div>
-                                    <h3><a href="#">Cost Effective</a></h3>
+                                    <h3><a href="#">lorem ipsum</a></h3>
                                 </div>
                                 <div class="choose-content">
-                                    <p>Purchasing power and partnerships with world’s premier carriers.</p>
+                                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
                                 </div>
                             </div>
                         </div>
@@ -312,13 +290,12 @@
                             <div class="single-choose mb-40">
                                 <div class="choose-head">
                                     <div class="choose-icon mb-25">
-                                        <img src="img/icon/ds_icon03.png" alt="img">
+                                        <img src="{{asset('assetsimg/icon/ds_icon03.png')}}" alt="img">
                                     </div>
-                                    <h3><a href="#">Reliable</a></h3>
+                                    <h3><a href="#">lorem ipsum</a></h3>
                                 </div>
                                 <div class="choose-content">
-                                    <p>CargoIQ certified, C-TPAT, PIP, and TAPA compliant. Split and full charters. On-time
-                                        delivery.</p>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis eos aut totam.</p>
                                 </div>
                             </div>
                         </div>
@@ -326,13 +303,12 @@
                             <div class="single-choose mb-40">
                                 <div class="choose-head">
                                     <div class="choose-icon mb-25">
-                                        <img src="img/icon/choose_img02.png" alt="img">
+                                        <img src="{{asset('assetsimg/icon/choose_img02.png')}}" alt="img">
                                     </div>
-                                    <h3><a href="#">Tailored Solutions</a></h3>
+                                    <h3><a href="#">lorem ipsum</a></h3>
                                 </div>
                                 <div class="choose-content">
-                                    <p>Meeting customers’ unique needs with premium service and local expertise. Flexible
-                                        options, exception management, frequent sailings, and on-time delivery.</p>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum veritatis earum perspiciatis neque qui?</p>
                                 </div>
                             </div>
                         </div>
@@ -340,14 +316,12 @@
                             <div class="single-choose mb-40">
                                 <div class="choose-head">
                                     <div class="choose-icon mb-25">
-                                        <img src="img/icon/ds_icon06.png" alt="img">
+                                        <img src="{{asset('assetsimg/icon/ds_icon06.png')}}" alt="img">
                                     </div>
-                                    <h3><a href="#">Large Global Footprint</a></h3>
+                                    <h3><a href="#">Lorem ipsum dolor sit.</a></h3>
                                 </div>
                                 <div class="choose-content">
-                                    <p>Trans Atlantic Delivery Lines-owned offices throughout the world – including
-                                        high-growth emerging markets – guarantee we can support our customers, wherever you
-                                        go.</p>
+                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi, recusandae. Sint ad dolores iusto neque numquam incidunt?</p>
                                 </div>
                             </div>
                         </div>
@@ -355,13 +329,12 @@
                             <div class="single-choose mb-40">
                                 <div class="choose-head">
                                     <div class="choose-icon mb-25">
-                                        <img src="img/icon/ds_icon02.png" alt="img">
+                                        <img src="{{asset('assetsimg/icon/ds_icon02.png')}}" alt="img">
                                     </div>
-                                    <h3><a href="#">Premium Customer Service</a></h3>
+                                    <h3><a href="#">Lorem, ipsum dolor.</a></h3>
                                 </div>
                                 <div class="choose-content">
-                                    <p>Building partnerships by serving customers’ needs with cost-effective, flexible
-                                        options and on-time delivery.</p>
+                                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium unde laborum repudiandae.</p>
                                 </div>
                             </div>
                         </div>
@@ -369,13 +342,12 @@
                             <div class="single-choose mb-40">
                                 <div class="choose-head">
                                     <div class="choose-icon mb-25">
-                                        <img src="img/icon/choose_img06.png" alt="img">
+                                        <img src="{{asset('assetsimg/icon/choose_img06.png')}}" alt="img">
                                     </div>
-                                    <h3><a href="#">Customizable Solutionst</a></h3>
+                                    <h3><a href="#">Lorem, ipsum.</a></h3>
                                 </div>
                                 <div class="choose-content">
-                                    <p>Combining straightforward, standardized road freight products with customizable
-                                        options to meet lead-time and capacity needs.</p>
+                                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempora, hic possimus.</p>
                                 </div>
                             </div>
                         </div>
@@ -392,13 +364,13 @@
                     <div class="row align-items-center">
                         <div class="col-xl-5 col-lg-8 order-2 order-lg-0">
                             <div class="video-title">
-                                <span>Our Challenges</span>
-                                <h2><span>never</span> break our promise</h2>
+                                <span>lorem ipsum</span>
+                                <h2><span>lorem</span> Lorem, ipsum dolor.</h2>
                             </div>
                         </div>
                         <!-- <div class="col-lg-3">
                                         <div class="video-play">
-                                            <img src="img/icon/play_btn.png" alt="img">
+                                            <img src="{{asset('assetsimg/icon/play_btn.png')}}" alt="img">
                                         </div>
                                     </div> -->
                     </div>
@@ -423,7 +395,7 @@
                                         <div class="single-customer-rating mb-70">
                                             <div class="customer-rating-top">
                                                 <div class="customer-thumb">
-                                                    <a href="#"><img src="img/images/rating_logo.jpg" alt="img"></a>
+                                                    <a href="#"><img src="{{asset('assetsimg/images/rating_logo.jpg')}}" alt="img"></a>
                                                     <div class="rating-info">
                                                         <h6>Overall Rating</h6>
                                                         <div class="raising-star mb-15">
@@ -468,7 +440,7 @@
                                         <div class="single-customer-rating mb-70">
                                             <div class="customer-rating-top">
                                                 <div class="customer-thumb">
-                                                    <a href="#"><img src="img/images/rating_logo03.jpg" alt="img"></a>
+                                                    <a href="#"><img src="{{asset('assetsimg/images/rating_logo03.jpg')}}" alt="img"></a>
                                                     <div class="rating-info">
                                                         <h6>Overall Rating</h6>
                                                         <div class="raising-star mb-15">
@@ -515,7 +487,7 @@
                                         <div class="single-customer-rating mb-70">
                                             <div class="customer-rating-top">
                                                 <div class="customer-thumb">
-                                                    <a href="#"><img src="img/images/rating_logo02.jpg" alt="img"></a>
+                                                    <a href="#"><img src="{{asset('assetsimg/images/rating_logo02.jpg')}}" alt="img"></a>
                                                     <div class="rating-info">
                                                         <h6>Overall Rating</h6>
                                                         <div class="raising-star mb-15">
@@ -560,7 +532,7 @@
                                         <div class="single-customer-rating mb-70">
                                             <div class="customer-rating-top">
                                                 <div class="customer-thumb">
-                                                    <a href="#"><img src="img/images/rating_logo04.jpg" alt="img"></a>
+                                                    <a href="#"><img src="{{asset('assetsimg/images/rating_logo04.jpg')}}" alt="img"></a>
                                                     <div class="rating-info">
                                                         <h6>Overall Rating</h6>
                                                         <div class="raising-star mb-15">

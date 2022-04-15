@@ -25,7 +25,7 @@
                                            <i class="fas fa-phone"></i>
                                        </div>
                                        <div class="thc-content">
-                                           <p><span>Call :</span> +1 (843)-790-4321
+                                           <p><span>lorem :</span> +0 (000)-000-0000
                                            </p>
                                        </div>
                                    </li>
@@ -34,8 +34,8 @@
                                            <i class="fas fa-map-marker"></i>
                                        </div>
                                        <div class="thc-content">
-                                           <p>605 S Kuner Rd, Brighton, CO 80601,</p>
-                                           <p>USA</p>
+                                           <p>Lorem ipsum dolor sit amet consectetur.</p>
+                                           <p>lorem</p>
                                        </div>
                                    </li>
                                </ul>
@@ -60,20 +60,19 @@
                            <div class="main-menu">
                                <nav id="mobile-menu">
                                    <ul>
-                                       <li class=""><a href="index.html">Home</a>
+                                       <li class=""><a href="index.html">lorem</a>
                                        </li>
-                                       <li><a href="tracking.html">Track And Trace</a></li>
-                                       <li><a href="#">Services</a>
+                                       <li><a href="tracking.html">Lorem, ipsum.</a></li>
+                                       <li><a href="#">lorem</a>
                                            <ul class="submenu">
-                                               <li><a href="service-air.html">Air Freight</a></li>
-                                               <li><a href="service-ocean.html">Ocean Freight</a></li>
-                                               <li><a href="service-road.html">Road Freight</a></li>
-                                               <li><a href="service-warehousing-and-distribution.html">Warehousing And
-                                                       Distribution</a></li>
+                                               <li><a href="service-air.html">lorem 1</a></li>
+                                               <li><a href="service-ocean.html">lorem 2</a></li>
+                                               <li><a href="service-road.html">lorem 3</a></li>
+                                               <li><a href="service-warehousing-and-distribution.html">lorem 4</a></li>
                                            </ul>
                                        </li>
-                                       <li><a href="about-us.html">About Us</a></li>
-                                       <li><a href="contactus.html">Contact Us</a></li>
+                                       <li><a href="about-us.html">lorem 1</a></li>
+                                       <li><a href="contactus.html">lorem 2</a></li>
                                    </ul>
                                </nav>
                            </div>
@@ -89,20 +88,19 @@
                                    style="right: 0px; left: auto; text-align: center; text-indent: 0px; font-size: 18px;"><span></span><span></span><span></span></a>
                                <nav class="mean-nav">
                                    <ul style="display: none;">
-                                       <li><a href="index.html">Home</a></li>
-                                       <li><a href="tracking.html">Track And Trace</a></li>
-                                       <li><a href="#">Services</a>
+                                       <li><a href="index.html">lorem</a></li>
+                                       <li><a href="tracking.html">Lorem, ipsum dolor.</a></li>
+                                       <li><a href="#">lorem</a>
                                            <ul class="submenu" style="display: none;">
-                                               <li><a href="service-air.html">Air Freight</a></li>
-                                               <li><a href="service-ocean.html">Ocean Freight</a></li>
-                                               <li><a href="service-road.html">Road Freight</a></li>
-                                               <li><a href="service-warehousing-and-distribution.html">Warehousing And
-                                                       Distribution</a></li>
+                                               <li><a href="service-air.html">lorem 1</a></li>
+                                               <li><a href="service-ocean.html">lorem 2</a></li>
+                                               <li><a href="service-road.html">lorem 3</a></li>
+                                               <li><a href="service-warehousing-and-distribution.html">lorem 4</a></li>
                                            </ul>
                                            <a class="mean-expand" href="#" style="font-size: 18px">+</a>
                                        </li>
-                                       <li><a href="about-us.html">About Us</a></li>
-                                       <li><a href="contactus.html">Contact Us</a></li>
+                                       <li><a href="about-us.html">lorem 1</a></li>
+                                       <li><a href="contactus.html">lorem 2</a></li>
                                    </ul>
                                </nav>
                            </div>
