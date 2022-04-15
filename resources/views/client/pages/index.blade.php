@@ -236,19 +236,19 @@
                                             <option >lorem ipsum 3</option>
                                             <option>lorem ipsum 4</option>
                                         </select>
-                                        <input type="text" name="length" placeholder="Length (cm)" required="required">
-                                        <input type="text" name="height" placeholder="Height (cm)" required="required">
+                                        <input type="text" name="length" placeholder="lorem ipsum" required="required">
+                                        <input type="text" name="height" placeholder="lorem ipsum" required="required">
                                     </div>
                                     <div class="cta-form-col d-flex justify-content-between">
                                         <input class="cta-email" name="departure" type="text"
-                                            placeholder="Country From" required="required">
+                                            placeholder="lorem ipsum" required="required">
                                         <input class="cta-email" name="destination" type="text"
-                                            placeholder="Country To" required="required">
+                                            placeholder="lorem ipsum" required="required">
                                     </div>
                                     <div class="cta-form-col d-flex justify-content-between">
-                                        <input class="cta-email" name="weight" type="text" placeholder="Weight (kg)"
+                                        <input class="cta-email" name="weight" type="text" placeholder="lorem ipsum"
                                             required="required">
-                                        <input class="cta-email" name="email" type="email" placeholder="Email Address"
+                                        <input class="cta-email" name="email" type="email" placeholder="lorem ipsum"
                                             required="required">
                                     </div>
                                     <button type="submit" name="sendquote" class="btn">submit</button>
