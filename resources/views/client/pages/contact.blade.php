@@ -18,26 +18,17 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="custom-heading">
-                            <h3>your inquiry</h3>
+                            <h3>lorem</h3>
                         </div><!-- .custom-heading.left end -->
 
                         <p>
-                            Cozy sphinx waves quart jug of bad milk. A very bad 
-                            quack might jinx zippy fowls. Few quips galvanized 
-                            the mock jury box. Quick brown dogs jump over the 
-                            lazy fox. The jay, pig, fox, zebra, and my wolves 
-                            quack! Blowzy red vixens fight for a quick jump. 
-                            Joaquin Phoenix was gazed by MTV for luck. A 
-                            wizard’s job is to vex chumps quickly in fog. Watch 
-                            "Jeopardy!", Alex Trebek's fun TV quiz game. 
-                            Woven silk pyjamas exchanged for blue quartz. 
-                            Brawny gods just.
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis eligendi saepe magnam asperiores et illo expedita qui iste ducimus corrupti, natus iusto! Dolorum veritatis cum eum vel! Porro, rerum impedit!
                         </p>
 
                         <br />
 
                         <div class="custom-heading">
-                            <h4>company information</h4>
+                            <h4>Lorem, ipsum.</h4>
                         </div><!-- .custom-heading end -->
 
                         <address>
