@@ -18,7 +18,7 @@
                                             alt="Trucking Transportation and Logistics HTML Template" /> --}}
                                         <h2 class="fw-bold"><span class="text-primary">Fedex</span> Shipping
                                             Delivery</h2> <br>
-                                            <p style="color-black">Fedexshippingdelivery54@gmail.com</p>
+                                        <p style="color-black">Fedexshippingdelivery54@gmail.com</p>
                                     </a>
                                 </div><!-- .logo end -->
                             </div><!-- .navbar-header start -->
@@ -27,11 +27,12 @@
                             <div class="collapse navbar-collapse">
                                 <ul class="nav navbar-nav">
                                     <li class="dropdown current-menu-item">
-                                        <a href="{{url('/Home')}}" data-toggle="dropdown" class="dropdown-toggle">Home</a>
+                                        <a href="{{ url('/Home') }}" data-toggle="dropdown"
+                                            class="dropdown-toggle">Home</a>
                                     </li><!-- .dropdown end -->
 
-                                    <li class="dropdown">
-                                        <a href="{{url('/About')}}" data-toggle="dropdown" class="dropdown-toggle">About</a>
+                                    <li>
+                                        <a href="{{ url('/about') }}">About</a>
                                     </li><!-- .dropdown end -->
 
                                     <li class="dropdown">
@@ -49,14 +50,14 @@
                                         </ul><!-- .dropdown-menu end -->
                                     </li><!-- .dropdown end -->
 
-                                 
 
-                                   
+
+
                                     <li><a href="locations.html">Track And Trace</a></li>
 
-                                    <li class="dropdown">
-                                        <a href="{{url('/contact')}}" data-toggle="dropdown" class="dropdown-toggle">Contact</a>
-                                        
+                                    <li>
+                                        <a href="{{url('/contact') }}">Contact</a>
+
                                     </li><!-- .dropdown end -->
                                 </ul><!-- .nav.navbar-nav end -->
 
