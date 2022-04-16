@@ -29,11 +29,11 @@
                         </div>
 
                         <ul>
-                            <li><a href="about01.html">HOME</a></li>
-                            <li><a href="company-history.html">ABOUT</a></li>
-                            <li><a href="events.html">SERVICES</a></li>
-                            <li><a href="supply-chain-management.html">TRACK AND TRACE</a></li>
-                            <li><a href="warehousing.html">CONTACT</a></li>
+                            <li><a href="{{url('/')}}">HOME</a></li>
+                            <li><a href="{{url('/about')}}">ABOUT</a></li>
+                            <li><a href="#">SERVICES</a></li>
+                            <li><a href="#">TRACK AND TRACE</a></li>
+                            <li><a href="{{url('/contact')}}">CONTACT</a></li>
                         </ul>
                     </li><!-- .widget-pages end -->
                 </ul><!-- .col-md-3.footer-widget-container end -->
@@ -57,7 +57,7 @@
                         <a href="mailto:">Fedexshippingdelivery54@gmail.com</a>
                         <br />
                         <ul class="footer-social-icons">
-                            <li><a href="#" class="fa fa-facebook"></a></li>
+                            <li><a href="#" class="fa fab-facebook"></a></li>
                             <li><a href="#" class="fa fa-twitter"></a></li>
                             <li><a href="#" class="fa fa-google-plus"></a></li>
                         </ul><!-- .footer-social-icons end -->
@@ -75,7 +75,7 @@
                 </div><!-- .col-md-6 end -->
 
                 <div class="col-md-6">
-                    <p class="align-right">DESIGNED AND DEVELOPED BY <a href="/">ICOT SOLUTION</a></p>
+                    <p class="align-right">DESIGNED AND DEVELOPED BY <a href="/">ICOT SOLUTIONS</a></p>
                 </div><!-- .col-md-6 end -->
             </div><!-- .row end -->
         </div><!-- .container end -->

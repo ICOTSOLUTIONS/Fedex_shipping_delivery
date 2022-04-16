@@ -1,128 +1,5 @@
 @extends('client.layout.master')
-{{-- @push('link')
-
-    <head>
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
-            integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    </head>
-@endpush --}}
 @section('content')
-    {{-- <div id="masterslider" class="master-slider ms-skin-default mb-0">
-        <!-- first slide -->
-        <div class="ms-slide">
-            <!-- slide background -->
-            <img src="{{ asset('assets/img/slider/slide01.jpg') }}"
-                data-src="{{ asset('assets/img/slider/slide01.jpg') }}" alt="Strongest distribution network" />
-
-            <img class="ms-layer" src="{{ asset('assets/img/slider/slider-line.jpg') }}"
-                data-src="{{ asset('assets/img/slider/slider-line.jpg') }}" alt="" style="left: 0; top: 310px;"
-                data-type="image" data-effect="left(short)" data-duration="300" data-hide-effect="fade" data-delay="0" />
-
-            <h2 class="ms-layer pi-caption01" style="left: 0; top: 340px;" data-type="text" data-effect="left(short)"
-                data-duration="300" data-hide-effect="fade" data-delay="300">
-                strongest
-            </h2>
-
-            <h2 class="ms-layer pi-caption01" style="left: 0; top: 400px;" data-type="text" data-effect="left(short)"
-                data-duration="300" data-hide-effect="fade" data-delay="600">
-                distribution
-            </h2>
-
-            <h2 class="ms-layer pi-caption01" style="left: 0; top: 460px;" data-type="text" data-effect="left(short)"
-                data-duration="300" data-hide-effect="fade" data-delay="900">
-                network
-            </h2>
-        </div><!-- .ms-slide end -->
-
-        <!-- slide 02 start -->
-        <div class="ms-slide">
-            <!-- slide background -->
-            <img src="{{ asset('assets/masterslider/blank.gif') }}"
-                data-src="{{ asset('assets/img/slider/slide02.jpg') }}" alt="International Air freight" />
-
-            <h2 class="ms-layer pi-caption01" style="left: 58px; top: 390px;" data-type="text" data-effect="top(short)"
-                data-duration="300" data-hide-effect="fade" data-delay="0">
-                International Air Freight
-            </h2>
-
-            <img class="ms-layer" src="{{ asset('assets/masterslider/blank.gif') }}"
-                data-src="{{ asset('assets/img/slider/slider-line.jpg') }}" alt="" style="left: 540px; top: 450px;"
-                data-type="image" data-effect="bottom(short)" data-duration="300" data-hide-effect="fade"
-                data-delay="300" />
-
-            <p class="ms-layer pi-text" style="left: 375px; top: 470px;" data-type="text" data-effect="top(short)"
-                data-duration="300" data-hide-effect="fade" data-delay="600">
-                Fast International Air Delivery
-            </p>
-        </div><!-- .ms-slide end -->
-
-        <!-- slide 03 start -->
-        <div class="ms-slide">
-            <!-- slide background -->
-            <img src="{{ asset('assets/masterslider/blank.gif') }}"
-                data-src="{{ asset('assets/img/slider/slide03.jpg') }}" alt="Worldwide freight services" />
-
-            <h2 class="ms-layer pi-caption01" style="left: 258px; top: 390px;" data-type="text" data-effect="top(short)"
-                data-duration="300" data-hide-effect="fade" data-delay="0">
-                Freight services
-            </h2>
-
-            <img class="ms-layer" src="{{ asset('assets/masterslider/blank.gif') }}"
-                data-src="{{ asset('assets/img/slider/slider-line.jpg') }}" alt="" style="left: 540px; top: 450px;"
-                data-type="image" data-effect="bottom(short)" data-duration="300" data-hide-effect="fade"
-                data-delay="300" />
-
-            <p class="ms-layer pi-text" style="left: 278px; top: 470px;" data-type="text" data-effect="top(short)"
-                data-duration="300" data-hide-effect="fade" data-delay="600">
-                Road, air, train or overseas. We got it covered!
-            </p>
-        </div><!-- .ms-slide slide03 end -->
-
-        <!-- slide 04 start -->
-        <div class="ms-slide">
-            <!-- slide background -->
-            <img src="{{ asset('assets/masterslider/blank.gif') }}"
-                data-src="{{ asset('assets/img/slider/slide04.jpg') }}" alt="Worldwide freight services" />
-
-            <h2 class="ms-layer pi-caption01" style="left: 388px; top: 390px;" data-type="text" data-effect="top(short)"
-                data-duration="300" data-hide-effect="fade" data-delay="00">
-                Trucking
-            </h2>
-
-            <img class="ms-layer" src="{{ asset('assets/masterslider/blank.gif') }}"
-                data-src="{{ asset('assets/img/slider/slider-line.jpg') }}" alt="" style="left: 540px; top: 450px;"
-                data-type="image" data-effect="bottom(short)" data-duration="300" data-hide-effect="fade"
-                data-delay="300" />
-
-            <p class="ms-layer pi-text" style="left: 265px; top: 470px;" data-type="text" data-effect="top(short)"
-                data-duration="300" data-hide-effect="fade" data-delay="600">
-                Powerful Transport & Logistics Web Solution
-            </p>
-        </div><!-- .ms-slide slide04 end -->
-    </div><!-- #masterslider end --> --}}
-
-    {{-- <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img src="{{ asset('assets/img/slider/slide01.jpg') }}" class="d-block w-100" alt="...">
-            </div>
-            <div class="carousel-item">
-                <img src="{{ asset('assets/img/slider/slide02.jpg') }}" class="d-block w-100" alt="...">
-            </div>
-            <div class="carousel-item">
-                <img src="{{ asset('assets/img/slider/slide03.jpg') }}" class="d-block w-100" alt="...">
-            </div>
-        </div>
-        <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
-    </div> --}}
-
     <div class="hero-image">
         <div class="hero-text">
             {{-- <h1 style="font-size:50px">I am John Doe</h1>
@@ -176,7 +53,8 @@
                                 <h4>Lorem, ipsum.</h4>
                             </div><!-- .custom-heading end -->
 
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit placeat, ab voluptate facilis nisi tempora beatae similique modi excepturi maiores?
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit placeat, ab voluptate
+                                facilis nisi tempora beatae similique modi excepturi maiores?
                             </p>
                         </div><!-- .service-body end -->
                     </div><!-- .service-feature-box-end -->
@@ -200,7 +78,8 @@
                                 <h4>Lorem, ipsum.</h4>
                             </div><!-- .custom-heading end -->
 
-                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est, cum temporibus rerum consequuntur ut doloribus.
+                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est, cum temporibus rerum
+                                consequuntur ut doloribus.
                             </p>
                         </div><!-- .service-body end -->
                     </div><!-- .service-feature-box-end -->
@@ -244,7 +123,8 @@
                         <div class="service-details">
                             <h3>Lorem, ipsum.</h3>
 
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati odio quae quidem molestiae excepturi labore, nobis reprehenderit facere distinctio quasi?
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati odio quae quidem
+                                molestiae excepturi labore, nobis reprehenderit facere distinctio quasi?
                             </p>
                         </div><!-- .service-details end -->
                     </div><!-- .service-icon-left-boxed end -->
@@ -259,7 +139,8 @@
                         <div class="service-details">
                             <h3>Lorem ipsum dolor sit.</h3>
 
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia saepe rem eum expedita eaque quaerat illum impedit deserunt deleniti a!
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia saepe rem eum expedita eaque
+                                quaerat illum impedit deserunt deleniti a!
                             </p>
                         </div><!-- .service-details end -->
                     </div><!-- .service-icon-left-boxed end -->
@@ -276,7 +157,8 @@
                         <div class="service-details">
                             <h3>Lorem, ipsum dolor.</h3>
 
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit recusandae eius atque laudantium aut magni architecto cupiditate, vitae incidunt nesciunt.
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit recusandae eius atque
+                                laudantium aut magni architecto cupiditate, vitae incidunt nesciunt.
                             </p>
                         </div><!-- .service-details end -->
                     </div><!-- .service-icon-left-boxed end -->
@@ -291,7 +173,8 @@
                         <div class="service-details">
                             <h3>Lorem, ipsum.</h3>
 
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Totam aliquam maxime reprehenderit veniam blanditiis odio animi voluptatem rerum laborum excepturi?
+                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Totam aliquam maxime reprehenderit
+                                veniam blanditiis odio animi voluptatem rerum laborum excepturi?
                             </p>
                         </div><!-- .service-details end -->
                     </div><!-- .service-icon-left-boxed end -->
@@ -309,7 +192,8 @@
                     </div><!-- .custom-heading end -->
 
                     <p>
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, perferendis ipsam accusamus voluptatem delectus sint!                    </p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, perferendis ipsam accusamus
+                        voluptatem delectus sint! </p>
 
                     <ul class="service-list clearfix">
                         <li>
@@ -452,13 +336,16 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, perferendis ipsa
                         <div id="testimonial-carousel" class="owl-carousel owl-carousel-navigation">
                             <div class="owl-item">
                                 <div class="testimonial">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci voluptatibus totam sapiente tempore illo delectus ad eaque beatae veritatis ab.
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci voluptatibus totam
+                                        sapiente tempore illo delectus ad eaque beatae veritatis ab.
                                     </p>
 
                                     <div class="testimonial-author">
                                         <p>
                                             Lorem, ipsum. <br />
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, id ex eos obcaecati culpa aspernatur, sint aliquam quisquam quasi error iusto beatae recusandae modi autem sunt magnam nisi dignissimos cupiditate.
+                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, id ex eos
+                                            obcaecati culpa aspernatur, sint aliquam quisquam quasi error iusto beatae
+                                            recusandae modi autem sunt magnam nisi dignissimos cupiditate.
                                         </p>
                                     </div><!-- .testimonial-author end -->
                                 </div><!-- .testimonial end -->
@@ -466,7 +353,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, id ex eos ob
 
                             <div class="owl-item">
                                 <div class="testimonial">
-                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto corrupti unde, corporis dicta expedita amet, iure porro molestias animi ipsam similique, rem minima labore veniam!
+                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto corrupti unde,
+                                        corporis dicta expedita amet, iure porro molestias animi ipsam similique, rem minima
+                                        labore veniam!
                                     </p>
 
                                     <div class="testimonial-author">
@@ -480,12 +369,14 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, id ex eos ob
 
                             <div class="owl-item">
                                 <div class="testimonial">
-                                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum corporis culpa autem inventore ad nesciunt voluptatibus molestias eius voluptate aspernatur aliquid reprehenderit beatae, eum pariatur quasi a maiores aliquam magni.
+                                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum corporis culpa autem
+                                        inventore ad nesciunt voluptatibus molestias eius voluptate aspernatur aliquid
+                                        reprehenderit beatae, eum pariatur quasi a maiores aliquam magni.
                                     </p>
 
                                     <div class="testimonial-author">
                                         <p>
-                                          Lorem, ipsum., <br />
+                                            Lorem, ipsum., <br />
                                             Lorem, ipsum dolor.
                                         </p>
                                     </div><!-- .testimonial-author end -->
@@ -504,7 +395,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, id ex eos ob
 
                     <br />
 
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta omnis quasi nostrum quia, ab voluptatem!
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta omnis quasi nostrum quia, ab
+                        voluptatem!
                     </p>
 
                     <a href="locations.html" class="read-more">

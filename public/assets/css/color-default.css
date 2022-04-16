@@ -1,4 +1,3 @@
-
 /* 
     Here you can change default template color
 */
@@ -15,7 +14,6 @@
 .post-single .blog-post .post-date .month,
 .blog-posts .pagination li.active,
 .blog-posts .pagination li:hover,
-.scroll-up:hover,
 .pixely_widget_sharre .box .share:hover,
 .nivo-wrapper .nivo-directionNav a:hover,
 .blog-post.isotope-item .post-category a:hover,
@@ -31,18 +29,24 @@
 .accordion .title:hover::after,
 .tracking .submit,
 .pi-latest-posts02 .post-date .month,
-.shipping-quote .submit{  
-  background-color: #FF5120;
+.shipping-quote .submit {
+    background-color: #FF5120;
 }
 
-.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus,
+.scroll-up:hover {
+    background-color: #c40202ed;
+
+}
+
+.dropdown-menu>li>a:hover,
+.dropdown-menu>li>a:focus,
 .breadcrumb li a:hover,
 .colored,
 .footer-widget-container a:hover,
 .copyright-container a:hover,
 .blog-post .post-body a:hover h3,
 a.read-more span,
-.rpw_posts_widget ul > li::before,
+.rpw_posts_widget ul>li::before,
 .rpw_posts_widget li a:hover h4,
 .post-footer .post-meta li.comments:hover,
 .comment-meta .date,
@@ -52,8 +56,8 @@ a.download-link:hover span,
 .pi-latest-posts a:hover h4,
 .pi-latest-posts02 li .post-details a:hover h4,
 .header-style02 #quick-links li i,
-.header-style02 .navbar-default .navbar-nav>li>a:hover, 
-.header-style02 .nav > li.current-menu-item > a,
+.header-style02 .navbar-default .navbar-nav>li>a:hover,
+.header-style02 .nav>li.current-menu-item>a,
 .header-style01 #quick-links li i,
 .header-style01 #quick-links li a:hover,
 .header-style02 #top-bar-wrapper.dark #quick-links li a:hover,
@@ -63,17 +67,17 @@ a.download-link:hover span,
 .header-style03 .navbar-nav>li.current-menu-item>a,
 .custom-bkg.dark a:hover,
 .custom-bkg.dark a:hover span,
-.custom-bkg.dark a:hover i{
+.custom-bkg.dark a:hover i {
     color: #FF5120;
 }
 
 .header-style01 .navbar-default .navbar-nav>li>a:hover,
-.header-style01 .nav > li.current-menu-item > a{
+.header-style01 .nav>li.current-menu-item>a {
     border-color: #FF5120;
 }
 
-.dropdown .dropdown-menu .dropdown-submenu > a:hover:after,
-blockquote{
+.dropdown .dropdown-menu .dropdown-submenu>a:hover:after,
+blockquote {
     border-left-color: #FF5120;
 }
 
@@ -85,8 +89,8 @@ blockquote{
 .service-feature-box .service-media:hover i,
 .btn:hover,
 .tracking .submit:hover,
-.shipping-quote .submit:hover{
-    background-color: #0275c4;
+.shipping-quote .submit:hover {
+    background-color: #c40202ed;
 }
 
 /* 
@@ -111,7 +115,7 @@ blockquote{
 .numbers-counter .counter-container::after,
 .master-slider .pi-button:hover,
 .master-slider .tooltip h6::after,
-.ms-skin-default .ms-tooltip-point .ms-point-center{
+.ms-skin-default .ms-tooltip-point .ms-point-center {
     background-color: #FF5120;
 }
 
@@ -122,17 +126,16 @@ blockquote{
 .pi-latest-posts02 .post-category i,
 .accordion .title::before,
 .pi-latest-posts03 li .post-media i,
-.news-carousel-container .icon-title i{
+.news-carousel-container .icon-title i {
     color: #FF5120;
 }
 
 .hover-mask-container .hover-details span,
 .hover-mask-container .hover-zoom,
-.master-slider .pi-button{
+.master-slider .pi-button {
     border-color: #FF5120;
 }
 
-.icon-container .st1{
+.icon-container .st1 {
     fill: #FF5120;
 }
-

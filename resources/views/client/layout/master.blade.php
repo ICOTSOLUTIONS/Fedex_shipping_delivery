@@ -43,8 +43,8 @@
     }
 
     .hero-image {
-        margin:0 !important;
-        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("{{asset('assets/img/slider/slide01.jpg')}}");
+        margin: 0 !important;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("{{ asset('assets/img/slider/slide01.jpg') }}");
         height: 100%;
         background-position: center;
         background-repeat: no-repeat;
@@ -76,7 +76,14 @@
         background-color: #555;
         color: white;
     } */
+    .borderform:focus {
+        outline: none;
+        border: 1px solid #0000ff85;
+    }
 
+    .radius {
+        border-radius: 5% ;
+    }
 </style>
 
 <body>

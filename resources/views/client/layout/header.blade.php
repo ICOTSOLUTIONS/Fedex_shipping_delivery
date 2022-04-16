@@ -13,12 +13,15 @@
                             <!-- .navbar-header start -->
                             <div class="navbar-header">
                                 <div class="logo">
-                                    <a href="index-2.html">
+                                    <a href="{{ url('/') }}">
                                         {{-- <img src="{{asset('assets/img/logo.png')}}"
-                                            alt="Trucking Transportation and Logistics HTML Template" /> --}}
+                                        alt="Trucking Transportation and Logistics HTML Template" /> --}}
                                         <h2 class="fw-bold"><span class="text-primary">Fedex</span> Shipping
-                                            Delivery</h2> <br>
-                                        <p style="color-black">Fedexshippingdelivery54@gmail.com</p>
+                                            Delivery</h2>
+                                        <p style="color-black" ><a href="" style="font-weight:bolder;">
+                                                Fedexshippingdelivery54@gmail.com</a></p>
+                                        <p style="color-black" ><a href="" style="font-weight:bolder;"> +1 (757)
+                                                392-7189x</a></p>
                                     </a>
                                 </div><!-- .logo end -->
                             </div><!-- .navbar-header start -->
@@ -26,9 +29,8 @@
                             <!-- MAIN NAVIGATION -->
                             <div class="collapse navbar-collapse">
                                 <ul class="nav navbar-nav">
-                                    <li class="dropdown current-menu-item">
-                                        <a href="{{ url('/Home') }}" data-toggle="dropdown"
-                                            class="dropdown-toggle">Home</a>
+                                    <li class="current-menu-item">
+                                        <a href="{{ url('/') }}">Home</a>
                                     </li><!-- .dropdown end -->
 
                                     <li>
@@ -38,31 +40,27 @@
                                     <li class="dropdown">
                                         <a href="#" data-toggle="dropdown" class="dropdown-toggle">Services</a>
                                         <ul class="dropdown-menu">
-                                            <li><a href="services01.html">Services overview</a></li>
-                                            <li class="dropdown dropdown-submenu">
+                                            <li><a href="#">Air Freight</a></li>
+                                            {{-- <li class="dropdown dropdown-submenu">
                                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Logistics</a>
-                                            </li><!-- .dropdown-submenu end -->
-                                            <li><a href="warehousing.html">Warehousing</a></li>
-                                            <li><a hrezf="supply-chain-management.html">Supply chain management</a>
-                                            </li>
-                                            <li><a href="packaging-options.html">Packaging options</a></li>
-                                            <li><a href="consulting-services.html">Consulting services</a></li>
+                                            </li><!-- .dropdown-submenu end --> --}}
+                                            <li><a href="#">Ocean Freight</a></li>
+                                            {{-- <li><a hrezf="supply-chain-management.html">Supply chain management</a>
+                                            </li> --}}
+                                            <li><a href="#">Road Freight</a></li>
+                                            <li><a href="#">Warehousing and Distribution</a></li>
+                                            {{-- <li><a href="consulting-services.html">Consulting services</a></li> --}}
                                         </ul><!-- .dropdown-menu end -->
                                     </li><!-- .dropdown end -->
-
-
-
-
-                                    <li><a href="locations.html">Track And Trace</a></li>
-
+                                    <li><a href="#">Track And Trace</a></li>
                                     <li>
-                                        <a href="{{url('/contact') }}">Contact</a>
+                                        <a href="{{ url('/contact') }}">Contact</a>
 
                                     </li><!-- .dropdown end -->
                                 </ul><!-- .nav.navbar-nav end -->
 
                                 <!-- RESPONSIVE MENU -->
-                                <div id="dl-menu" class="dl-menuwrapper">
+                                {{-- <div id="dl-menu" class="dl-menuwrapper">
                                     <button class="dl-trigger">Open Menu</button>
 
                                     <ul class="dl-menu">
@@ -170,13 +168,13 @@
                                             </ul><!-- .dl-submenu end -->
                                         </li>
                                     </ul><!-- .dl-menu end -->
-                                </div><!-- #dl-menu end -->
+                                </div><!-- #dl-menu end --> --}}
 
                                 <!-- #search start -->
                                 <div id="search">
                                     <form action="#" method="get">
                                         <input class="search-submit" type="submit" />
-                                        <input id="m_search" name="s" type="text" placeholder="Type and hit enter..." />
+                                        <input id="m_search" name="s" type="text" placeholder="Enter Tracking ID" />
                                     </form>
                                 </div><!-- #search end -->
                             </div><!-- MAIN NAVIGATION END -->
