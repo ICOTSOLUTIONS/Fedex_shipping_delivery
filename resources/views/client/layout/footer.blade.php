@@ -2,16 +2,14 @@
     <footer id="footer">
         <div class="container">
             <div class="row">
-                <ul class="col-md-3 col-sm-6 footer-widget-container clearfix">
+                <ul class="col-md-4 col-sm-6 footer-widget-container clearfix">
                     <!-- .widget.widget_text -->
                     <li class="widget widget_newsletterwidget">
                         <div class="title">
-                            <h3>newsletter subscribe</h3>
+                            <h3>Lorem, ipsum.</h3>
                         </div>
 
-                        <p>
-                            Subscribe to our newsletter and we will
-                            inform you about newest projects and promotions.
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni asperiores dignissimos soluta consequuntur quo consequatur..
                         </p>
 
                         <br />
@@ -23,7 +21,7 @@
                     </li><!-- .widget.widget_newsletterwidget end -->
                 </ul><!-- .col-md-3.footer-widget-container end -->
 
-                <ul class="col-md-3 col-sm-6 footer-widget-container">
+                <ul class="col-md-4 col-sm-6 footer-widget-container">
                     <!-- .widget-pages start -->
                     <li class="widget widget_pages">
                         <div class="title">
@@ -31,53 +29,32 @@
                         </div>
 
                         <ul>
-                            <li><a href="about01.html">About us</a></li>
-                            <li><a href="company-history.html">Company history</a></li>
-                            <li><a href="events.html">Company Events</a></li>
-                            <li><a href="supply-chain-management.html">Supply chain management</a></li>
-                            <li><a href="warehousing.html">Warehousing</a></li>
-                            <li><a href="news-standard.html">Company news</a></li>
-                            <li><a href="driver-application.html">Online driver application</a></li>
+                            <li><a href="about01.html">HOME</a></li>
+                            <li><a href="company-history.html">ABOUT</a></li>
+                            <li><a href="events.html">SERVICES</a></li>
+                            <li><a href="supply-chain-management.html">TRACK AND TRACE</a></li>
+                            <li><a href="warehousing.html">CONTACT</a></li>
                         </ul>
                     </li><!-- .widget-pages end -->
                 </ul><!-- .col-md-3.footer-widget-container end -->
 
-                <ul class="col-md-3 col-sm-6 footer-widget-container">
-                    <!-- .widget-pages start -->
-                    <li class="widget widget_pages">
-                        <div class="title">
-                            <h3>Industry solutions</h3>
-                        </div>
-
-                        <ul>
-                            <li><a href="overland-transportation.html">Overland transportation</a></li>
-                            <li><a href="air-freight.html">Air freight</a></li>
-                            <li><a href="ocean-freight.html">Ocean freight</a></li>
-                            <li><a href="large-projects.html">Large projects</a></li>
-                            <li><a href="rail-transportation.html">Rail international shipping</a></li>
-                            <li><a href="contract-logistics.html">Contract logistics</a></li>
-                            <li><a href="packaging-options.html">Packaging options</a></li>
-                        </ul>
-                    </li><!-- .widget-pages end -->
-                </ul><!-- .col-md-3.footer-widget-container end -->
-
-                <ul class="col-md-3 col-sm-6 footer-widget-container">
+                <ul class=" col-md-4 col-sm-6 footer-widget-container">
                     <li class="widget widget-text">
                         <div class="title">
                             <h3>contact us</h3>
                         </div>
 
                         <address>
-                            123 Second Street Fifth Avenue, <br />
-                            Manhattan, New York
+                            Lorem ipsum dolor sit amet. <br />
+                            Lorem, ipsum dolor.
                         </address>
 
                         <span class="text-big">
-                            +00 41 258 489 6587
+                            +1 (757) 392-7189
                         </span>
                         <br />
 
-                        <a href="mailto:">info@trucking.com</a>
+                        <a href="mailto:">Fedexshippingdelivery54@gmail.com</a>
                         <br />
                         <ul class="footer-social-icons">
                             <li><a href="#" class="fa fa-facebook"></a></li>
@@ -94,12 +71,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <p>TRUCKING 2015. All RIGHTS RESERVED.</p>
+                    <p>Copyright © Fedex_Shipping_Delivery | All Rights Reserved</p>
                 </div><!-- .col-md-6 end -->
 
                 <div class="col-md-6">
-                    <p class="align-right">DESIGNED AND DEVELOPED BY <a href="www.pixel-industry.html">PIXEL
-                            INDUSTRY.</a> ELITE AUTHOR.</p>
+                    <p class="align-right">DESIGNED AND DEVELOPED BY <a href="/">ICOT SOLUTION</a></p>
                 </div><!-- .col-md-6 end -->
             </div><!-- .row end -->
         </div><!-- .container end -->

@@ -149,14 +149,10 @@
 
                         <div class="service-body">
                             <div class="custom-heading">
-                                <h4>GROUND SHIPPING</h4>
+                                <h4>Lorem, ipsum.</h4>
                             </div><!-- .custom-heading end -->
 
-                            <p>
-                                We have a wide experience in overland
-                                industry specific logistic solutions like
-                                pharmaceutical logistics, retail and
-                                automotive logistics by train or road.
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam, officia..
                             </p>
                         </div><!-- .service-body end -->
                     </div><!-- .service-feature-box-end -->
@@ -177,14 +173,10 @@
 
                         <div class="service-body">
                             <div class="custom-heading">
-                                <h4>LARGE PROJECTS</h4>
+                                <h4>Lorem, ipsum.</h4>
                             </div><!-- .custom-heading end -->
 
-                            <p>
-                                We bring your goods safely to worldwide
-                                destinations with our great sea fright
-                                services. We offer LLC and FLC shipments
-                                that are fast and effective with no delays.
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit placeat, ab voluptate facilis nisi tempora beatae similique modi excepturi maiores?
                             </p>
                         </div><!-- .service-body end -->
                     </div><!-- .service-feature-box-end -->
@@ -205,14 +197,10 @@
 
                         <div class="service-body">
                             <div class="custom-heading">
-                                <h4>INTERNATIONAL AIR FREIGHT</h4>
+                                <h4>Lorem, ipsum.</h4>
                             </div><!-- .custom-heading end -->
 
-                            <p>
-                                We provide full supply chain management
-                                package including cost effective and fast
-                                sea freight. You can also combine this
-                                package with other means of transportation.
+                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est, cum temporibus rerum consequuntur ut doloribus.
                             </p>
                         </div><!-- .service-body end -->
                     </div><!-- .service-feature-box-end -->
@@ -223,7 +211,7 @@
                 <div class="col-md-12">
                     <a href="services02.html" class="btn btn-big btn-yellow btn-centered">
                         <span>
-                            view details
+                            lorem
                         </span>
                     </a>
                 </div><!-- .col-md-12 end -->
@@ -238,9 +226,9 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="custom-heading02">
-                        <h2>What we Offer</h2>
+                        <h2>Lorem, ipsum.</h2>
                         <p>
-                            TAILORED LOGISTIC SERVICES
+                            Lorem, ipsum dolor.
                         </p>
                     </div><!-- .custom-heading02 end -->
                 </div><!-- .col-md-12 end -->
@@ -254,13 +242,9 @@
                         </div><!-- .icon-container end -->
 
                         <div class="service-details">
-                            <h3>Contract logistics</h3>
+                            <h3>Lorem, ipsum.</h3>
 
-                            <p>
-                                Need custom logistic service? We got it
-                                covered. From overland, air, rail and sea
-                                transportation. Fast, safe and accurate
-                                shipment provided all over the globe.
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati odio quae quidem molestiae excepturi labore, nobis reprehenderit facere distinctio quasi?
                             </p>
                         </div><!-- .service-details end -->
                     </div><!-- .service-icon-left-boxed end -->
@@ -273,13 +257,9 @@
                         </div><!-- .icon-container end -->
 
                         <div class="service-details">
-                            <h3>Overland, Ocean and Air Freight</h3>
+                            <h3>Lorem ipsum dolor sit.</h3>
 
-                            <p>
-                                Trucking company offers the best logistics
-                                services using all mens of supply chain. Use
-                                our overland, ocean and air freight solutions
-                                for shipment of your goods.
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia saepe rem eum expedita eaque quaerat illum impedit deserunt deleniti a!
                             </p>
                         </div><!-- .service-details end -->
                     </div><!-- .service-icon-left-boxed end -->
@@ -294,13 +274,9 @@
                         </div><!-- .icon-container end -->
 
                         <div class="service-details">
-                            <h3>Warehousing and Storage</h3>
+                            <h3>Lorem, ipsum dolor.</h3>
 
-                            <p>
-                                Trucking offers intelligent warehouse solution.
-                                Lower your storage and good maintenance by
-                                using our modern and intelligent warehouses.
-                                You can see all locations on location page.
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit recusandae eius atque laudantium aut magni architecto cupiditate, vitae incidunt nesciunt.
                             </p>
                         </div><!-- .service-details end -->
                     </div><!-- .service-icon-left-boxed end -->
@@ -313,13 +289,9 @@
                         </div><!-- .icon-container end -->
 
                         <div class="service-details">
-                            <h3>Consulting Services</h3>
+                            <h3>Lorem, ipsum.</h3>
 
-                            <p>
-                                Don't know what mean of transportation
-                                would be right for you, or you need someone
-                                for full supply chain management? Please contact
-                                us. Our team of professionals will be happy to help.
+                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Totam aliquam maxime reprehenderit veniam blanditiis odio animi voluptatem rerum laborum excepturi?
                             </p>
                         </div><!-- .service-details end -->
                     </div><!-- .service-icon-left-boxed end -->
@@ -333,14 +305,11 @@
             <div class="row">
                 <div class="col-md-4 col-md-offset-2 custom-col-padding-both">
                     <div class="custom-heading">
-                        <h3>INDUSTRY SECTORS COVERAGE</h3>
+                        <h3>Lorem, ipsum.</h3>
                     </div><!-- .custom-heading end -->
 
                     <p>
-                        We cover different industry sectors, from food and
-                        beverage, chemical, retail, durable goods and more.
-                        Check the full list.
-                    </p>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, perferendis ipsam accusamus voluptatem delectus sint!                    </p>
 
                     <ul class="service-list clearfix">
                         <li>
@@ -350,7 +319,7 @@
                             </div><!-- .icon-container end -->
 
                             <p>
-                                Consumer Packaged Goods
+                                Lorem, ipsum.
                             </p>
                         </li>
 
@@ -361,7 +330,7 @@
                             </div><!-- .icon-container end -->
 
                             <p>
-                                Chemical Goods
+                                Lorem, ipsum.
                             </p>
                         </li>
 
@@ -372,7 +341,7 @@
                             </div><!-- .icon-container end -->
 
                             <p>
-                                Food and Beverage
+                                Lorem, ipsum.
                             </p>
                         </li>
 
@@ -383,7 +352,7 @@
                             </div><!-- .icon-container end -->
 
                             <p>
-                                Retail Goods
+                                Lorem, ipsum.
                             </p>
                         </li>
 
@@ -394,7 +363,7 @@
                             </div><!-- .icon-container end -->
 
                             <p>
-                                Energy, Oil and Gas
+                                Lorem, ipsum dolor.
                             </p>
                         </li>
                     </ul><!-- .service-list end -->
@@ -412,7 +381,7 @@
             <div class="row">
                 <div class="col-md-4 col-sm-6">
                     <div class="custom-heading">
-                        <h3>company news</h3>
+                        <h3>Lorem, ipsum.</h3>
                     </div><!-- .custom-heading end -->
 
                     <ul class="pi-latest-posts clearfix">
@@ -425,13 +394,13 @@
                                 <div class="post-date">
                                     <p>
                                         <i class="fa fa-calendar"></i>
-                                        MAY 15, 2015
+                                        000 00, 0000
                                     </p>
                                 </div>
 
                                 <a href="news-single.html">
                                     <h4>
-                                        Trucking - Company of the Year 2014
+                                        Lorem, ipsum.
                                     </h4>
                                 </a>
 
@@ -453,13 +422,13 @@
                                 <div class="post-date">
                                     <p>
                                         <i class="fa fa-calendar"></i>
-                                        MAY 15, 2015
+                                        000 00, 0000
                                     </p>
                                 </div>
 
                                 <a href="news-single.html">
                                     <h4>
-                                        First quartal 2015 revenue report released
+                                        Lorem ipsum dolor sit amet.
                                     </h4>
                                 </a>
 
@@ -476,25 +445,20 @@
 
                 <div class="col-md-4 col-sm-6">
                     <div class="custom-heading">
-                        <h3>what clients say</h3>
+                        <h3>Lorem, ipsum dolor.</h3>
                     </div><!-- .custom-heading end -->
 
                     <div class="carousel-container">
                         <div id="testimonial-carousel" class="owl-carousel owl-carousel-navigation">
                             <div class="owl-item">
                                 <div class="testimonial">
-                                    <p>
-                                        Best customer support and
-                                        response time I have ever seen...
-                                        not to mention a kick ass theme!
-                                        Great feeling from this purchase.
-                                        Thank you Pixel Industry!
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci voluptatibus totam sapiente tempore illo delectus ad eaque beatae veritatis ab.
                                     </p>
 
                                     <div class="testimonial-author">
                                         <p>
-                                            TRAVIS COPLAND, <br />
-                                            Transport & Logistics Solutions
+                                            Lorem, ipsum. <br />
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, id ex eos obcaecati culpa aspernatur, sint aliquam quisquam quasi error iusto beatae recusandae modi autem sunt magnam nisi dignissimos cupiditate.
                                         </p>
                                     </div><!-- .testimonial-author end -->
                                 </div><!-- .testimonial end -->
@@ -502,22 +466,13 @@
 
                             <div class="owl-item">
                                 <div class="testimonial">
-                                    <p>
-                                        Thanks for developing
-                                        products to help many people
-                                        to work as I do. Thank you!
-                                        Success for all! I did not
-                                        need to use the support,
-                                        this never happened to me.
-                                        Pocket Theme bought today
-                                        for another client, very
-                                        good too! Hug!
+                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto corrupti unde, corporis dicta expedita amet, iure porro molestias animi ipsam similique, rem minima labore veniam!
                                     </p>
 
                                     <div class="testimonial-author">
                                         <p>
-                                            ADRIANOSP, <br />
-                                            Themeforest member
+                                            Lorem, ipsum., <br />
+                                            Lorem, ipsum dollar.
                                         </p>
                                     </div><!-- .testimonial-author end -->
                                 </div><!-- .testimonial end -->
@@ -525,25 +480,13 @@
 
                             <div class="owl-item">
                                 <div class="testimonial">
-                                    <p>
-                                        We have several sites now
-                                        built in Elvyre across
-                                        several servers and have had
-                                        almost zero issues. The
-                                        documentation is great and
-                                        the featureset is phenomenal.
-                                        It is the best looking
-                                        pro-level and fairly easy-to-implement
-                                        advanced theme we are currently
-                                        regularly using. The end product
-                                        is great and easy to use and
-                                        configure. Highly recommended...
+                                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum corporis culpa autem inventore ad nesciunt voluptatibus molestias eius voluptate aspernatur aliquid reprehenderit beatae, eum pariatur quasi a maiores aliquam magni.
                                     </p>
 
                                     <div class="testimonial-author">
                                         <p>
-                                            DIGITALMARKETINGASSOCIATES, <br />
-                                            Themeforest member
+                                          Lorem, ipsum., <br />
+                                            Lorem, ipsum dolor.
                                         </p>
                                     </div><!-- .testimonial-author end -->
                                 </div><!-- .testimonial end -->
@@ -554,23 +497,19 @@
 
                 <div class="col-md-4 col-sm-12 clearfix">
                     <div class="custom-heading">
-                        <h3>our locations</h3>
+                        <h3>Lorem, ipsum.</h3>
                     </div><!-- .custom-heading end -->
 
                     <img src="{{ asset('assets/img/pics/locations.jpg') }}" alt="locations illustration" />
 
                     <br />
 
-                    <p>
-                        Trucking Co. covers over 150 locations all
-                        over the globe plus numerous logistic
-                        partner companies from different areas of
-                        supply chain.
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta omnis quasi nostrum quia, ab voluptatem!
                     </p>
 
                     <a href="locations.html" class="read-more">
                         <span>
-                            View all locations
+                            Lorem, ipsum dolor.
                             <i class="fa fa-chevron-right"></i>
                         </span>
                     </a>
