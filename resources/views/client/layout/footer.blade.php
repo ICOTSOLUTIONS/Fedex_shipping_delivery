@@ -1,148 +1,109 @@
- <!-- footer -->
- <footer>
-     <div class="footer-wrap footer-wrap-new pt-190 pb-40" data-background="img/bg/footer_bg.jpg">
-         <div class="container">
-             <div class="row">
-                 <div class="col-xl-3 col-lg-4 col-md-6">
-                     <div class="footer-widget mb-50">
-                         <div class="footer-logo mb-35">
-                             <a href="index.html"><img src="img/logo/lovo.png" alt="img"></a>
-                         </div>
-                         <div class="footer-text">
-                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam corporis eveniet provident, nulla veritatis illum fuga qui nisi similique aspernatur?...
-                             </p>
-                         </div>
-                         <div class="footer-social">
-                             <ul>
-                                 <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                 <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
-                                 <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                             </ul>
-                         </div>
-                     </div>
-                 </div>
-                 <div class="col-xl-3 col-lg-4 col-md-6">
-                     <div class="footer-widget mb-50">
-                         <div class="fw-title mb-30">
-                             <h5>lorem ipsum </h5>
-                         </div>
-                         <div class="fw-link">
-                             <ul>
-                                 <li><a href="service-air.html">lorem 1</a></li>
-                                 <li><a href="service-ocean.html">lorem 2</a></li>
-                                 <li><a href="service-road.html">lorem 3</a></li>
-                                 <li><a href="service-warehousing-and-distribution.html">lorem 4</a></li>
-                             </ul>
-                         </div>
-                     </div>
-                 </div>
-                 <div class="col-xl-3 col-lg-4 col-md-6">
-                     <div class="footer-widget mb-50">
-                         <div class="fw-title mb-30">
-                             <h5>lorem ipsum</h5>
-                         </div>
-                         <div class="fw-link">
-                             <ul>
-                                 <li><a href="tracking.html"><i class="fas fa-caret-right"></i>lorem ipsum</a>
-                                 </li>
-                                 <li><a href="about-us.html"><i class="fas fa-caret-right"></i>lorem ipsum</a></li>
-                                 <li><a href="contactus.html"><i class="fas fa-caret-right"></i> lorem ipsum</a></li>
-                                 <li><a href="policy.html"><i class="fas fa-caret-right"></i> lorem ipsum</a></li>
-                             </ul>
-                         </div>
-                     </div>
-                 </div>
-                 <div class="col-xl-3 col-lg-4 col-md-6">
-                     <div class="footer-widget mb-50">
-                         <div class="fw-title mb-30">
-                             <h5>lorem ipsum</h5>
-                         </div>
-                         <div class="f-support-content">
-                             <div class="contact-icon mb-30">
-                                 <i class="fas fa-map-marker"></i> &nbsp;
-                                 <span>Lorem ipsum dolor sit amet..</span>
-                             </div>
-                             <!-- <div class="contact-icon mb-30">
-                                <i class="fas fa-map-marker"></i> &nbsp;
-                                <span>BRANCH OFFICE: Boulevard Baltimore, Maryland 21230, United States</span>
-                            </div> -->
-                             <div class="contact-icon mb-30">
-                                 <i class="fas fa-envelope"></i> &nbsp;
-                                 loremipsum@.com
-                             </div>
-                             <div class="contact-icon mb-30">
-                                 <i class="fas fa-phone"></i> &nbsp;
-                                 +0 (000)-000-0000
-                             </div>
-                             <!-- <div class="contact-icon mb-30">
-                                <i class="fas fa-whatsapp"></i>
-                                +1 (503) 832-7574
-                            </div> -->
-                         </div>
-                     </div>
-                 </div>
-             </div>
-         </div>
-     </div>
-     <div class="copyright-wrap">
-         <div class="container">
-             <div class="row align-items-center">
-                 <div class="col-lg-12 col-md-12">
-                     <div class="copyright-text">
-                         <p>Copyright © <span>Lorem ipsum dolor sit amet consectetur.</span> | All Rights Reserved</p>
-                     </div>
-                 </div>
-                 <!-- <div class="col-lg-6 col-md-5">
-                        <div class="f-payment-method text-center text-md-right">
-                            <img src="/img/images/card_img.png" alt="img">
+<div id="footer-wrapper" class="footer-dark">
+    <footer id="footer">
+        <div class="container">
+            <div class="row">
+                <ul class="col-md-3 col-sm-6 footer-widget-container clearfix">
+                    <!-- .widget.widget_text -->
+                    <li class="widget widget_newsletterwidget">
+                        <div class="title">
+                            <h3>newsletter subscribe</h3>
                         </div>
-                    </div> -->
-             </div>
-         </div>
-     </div>
-     <!-- Smartsupp Live Chat script -->
-     <script type="text/javascript">
-         var _smartsupp = _smartsupp || {};
-         _smartsupp.key = '74467e04e9dbe9d775296aa677a9c24ce8907b39';
-         window.smartsupp || (function(d) {
-             var s, c, o = smartsupp = function() {
-                 o._.push(arguments)
-             };
-             o._ = [];
-             s = d.getElementsByTagName('script')[0];
-             c = d.createElement('script');
-             c.type = 'text/javascript';
-             c.charset = 'utf-8';
-             c.async = true;
-             c.src = '../www.smartsuppchat.com/loaderd41d.js?';
-             s.parentNode.insertBefore(c, s);
-         })(document);
-     </script>
 
-     <!-- GetButton.io widget -->
-     <script type="text/javascript">
-         (function() {
-             var options = {
-                 whatsapp: "+1 843-790-4321", // WhatsApp number
-                 call_to_action: "Message us", // Call to action
-                 position: "left", // Position may be 'right' or 'left'
-             };
-             var proto = document.location.protocol,
-                 host = "getbutton.io",
-                 url = proto + "//static." + host;
-             var s = document.createElement('script');
-             s.type = 'text/javascript';
-             s.async = true;
-             s.src = url + '/widget-send-button/js/init.js';
-             s.onload = function() {
-                 WhWidgetSendButton.init(host, proto, options);
-             };
-             var x = document.getElementsByTagName('script')[0];
-             x.parentNode.insertBefore(s, x);
-         })();
-     </script>
-     <!-- /GetButton.io widget -->
+                        <p>
+                            Subscribe to our newsletter and we will
+                            inform you about newest projects and promotions.
+                        </p>
 
+                        <br />
 
- </footer> <!-- footer-end -->
+                        <form class="newsletter">
+                            <input class="email" type="email" placeholder="Your email...">
+                            <input type="submit" class="submit" value="">
+                        </form>
+                    </li><!-- .widget.widget_newsletterwidget end -->
+                </ul><!-- .col-md-3.footer-widget-container end -->
+
+                <ul class="col-md-3 col-sm-6 footer-widget-container">
+                    <!-- .widget-pages start -->
+                    <li class="widget widget_pages">
+                        <div class="title">
+                            <h3>quick links</h3>
+                        </div>
+
+                        <ul>
+                            <li><a href="about01.html">About us</a></li>
+                            <li><a href="company-history.html">Company history</a></li>
+                            <li><a href="events.html">Company Events</a></li>
+                            <li><a href="supply-chain-management.html">Supply chain management</a></li>
+                            <li><a href="warehousing.html">Warehousing</a></li>
+                            <li><a href="news-standard.html">Company news</a></li>
+                            <li><a href="driver-application.html">Online driver application</a></li>
+                        </ul>
+                    </li><!-- .widget-pages end -->
+                </ul><!-- .col-md-3.footer-widget-container end -->
+
+                <ul class="col-md-3 col-sm-6 footer-widget-container">
+                    <!-- .widget-pages start -->
+                    <li class="widget widget_pages">
+                        <div class="title">
+                            <h3>Industry solutions</h3>
+                        </div>
+
+                        <ul>
+                            <li><a href="overland-transportation.html">Overland transportation</a></li>
+                            <li><a href="air-freight.html">Air freight</a></li>
+                            <li><a href="ocean-freight.html">Ocean freight</a></li>
+                            <li><a href="large-projects.html">Large projects</a></li>
+                            <li><a href="rail-transportation.html">Rail international shipping</a></li>
+                            <li><a href="contract-logistics.html">Contract logistics</a></li>
+                            <li><a href="packaging-options.html">Packaging options</a></li>
+                        </ul>
+                    </li><!-- .widget-pages end -->
+                </ul><!-- .col-md-3.footer-widget-container end -->
+
+                <ul class="col-md-3 col-sm-6 footer-widget-container">
+                    <li class="widget widget-text">
+                        <div class="title">
+                            <h3>contact us</h3>
+                        </div>
+
+                        <address>
+                            123 Second Street Fifth Avenue, <br />
+                            Manhattan, New York
+                        </address>
+
+                        <span class="text-big">
+                            +00 41 258 489 6587
+                        </span>
+                        <br />
+
+                        <a href="mailto:">info@trucking.com</a>
+                        <br />
+                        <ul class="footer-social-icons">
+                            <li><a href="#" class="fa fa-facebook"></a></li>
+                            <li><a href="#" class="fa fa-twitter"></a></li>
+                            <li><a href="#" class="fa fa-google-plus"></a></li>
+                        </ul><!-- .footer-social-icons end -->
+                    </li><!-- .widget.widget-text end -->
+                </ul><!-- .col-md-3.footer-widget-container end -->
+            </div><!-- .row end -->
+        </div><!-- .container end -->
+    </footer><!-- #footer end -->
+
+    <div class="copyright-container">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <p>TRUCKING 2015. All RIGHTS RESERVED.</p>
+                </div><!-- .col-md-6 end -->
+
+                <div class="col-md-6">
+                    <p class="align-right">DESIGNED AND DEVELOPED BY <a href="www.pixel-industry.html">PIXEL
+                            INDUSTRY.</a> ELITE AUTHOR.</p>
+                </div><!-- .col-md-6 end -->
+            </div><!-- .row end -->
+        </div><!-- .container end -->
+    </div><!-- .copyright-container end -->
+
+    <a href="#" class="scroll-up">Scroll</a>
+</div><!-- #footer-wrapper end -->

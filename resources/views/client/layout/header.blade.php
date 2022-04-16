@@ -1,114 +1,258 @@
-   <!-- preloader  -->
-   <!-- preloader end -->
-   <header class="transparent-header s-transparent-header">
-       <div class="third-header-top d-none d-lg-block">
-           <div class="container">
-               <div class="row align-items-center">
-                   <div class="col-xl-3 col-lg-4">
-                       <div id="google_translate_element"></div>
-                       <div class="third-logo">
-                           <a href="index.html"><img src="img/logo/lovo.png" alt="Logo"></a>
-                       </div>
-                   </div>
-                   <div class="col-xl-9 col-lg-8">
-                       <div class="third-header-contact">
-                           <div class="third-header-form">
-                               <form action='http://transatlanticdeliverylines.com/tracking' method="POST">
-                                   <input type="text" name="tracking" placeholder="Enter Tracking ID">
-                                   <button name="track" type="submit"><i class="fas fa-search"></i></button>
-                               </form>
-                           </div>
-                           <div class="third-hrader-contact-list">
-                               <ul>
-                                   <li>
-                                       <div class="thc-icon">
-                                           <i class="fas fa-phone"></i>
-                                       </div>
-                                       <div class="thc-content">
-                                           <p><span>lorem :</span> +0 (000)-000-0000
-                                           </p>
-                                       </div>
-                                   </li>
-                                   <li>
-                                       <div class="thc-icon">
-                                           <i class="fas fa-map-marker"></i>
-                                       </div>
-                                       <div class="thc-content">
-                                           <p>Lorem ipsum dolor sit amet consectetur.</p>
-                                           <p>lorem</p>
-                                       </div>
-                                   </li>
-                               </ul>
-                           </div>
+<div class="header-wrapper header-transparent">
+    <!-- .header.header-style01 start -->
+    <header id="header" class="header-style01">
+        <!-- .container start -->
+        <div class="container">
+            <!-- .main-nav start -->
+            <div class="main-nav">
+                <!-- .row start -->
+                <div class="row">
+                    <div class="col-md-12">
+                        <nav class="navbar navbar-default nav-left" role="navigation">
 
-                       </div>
-                   </div>
-               </div>
-           </div>
-       </div>
-       <div id="header-sticky" class="main-header third-main-header">
-           <div class="container">
-               <div class="row align-items-center">
-                   <div class="col-lg-3 col-md-6">
-                       <div class="logo">
-                           <a href="index.html"><img src="img/logo/lovo.png" class="mobile-logo logo-none"
-                                   alt="Logo"></a>
-                       </div>
-                   </div>
-                   <div class="col-lg-9 col-md-6 d-none d-md-block">
-                       <div class="menu-area">
-                           <div class="main-menu">
-                               <nav id="mobile-menu">
-                                   <ul>
-                                       <li class=""><a href="index.html">lorem</a>
-                                       </li>
-                                       <li><a href="tracking.html">Lorem, ipsum.</a></li>
-                                       <li><a href="#">lorem</a>
-                                           <ul class="submenu">
-                                               <li><a href="service-air.html">lorem 1</a></li>
-                                               <li><a href="service-ocean.html">lorem 2</a></li>
-                                               <li><a href="service-road.html">lorem 3</a></li>
-                                               <li><a href="service-warehousing-and-distribution.html">lorem 4</a></li>
-                                           </ul>
-                                       </li>
-                                       <li><a href="about-us.html">lorem 1</a></li>
-                                       <li><a href="contactus.html">lorem 2</a></li>
-                                   </ul>
-                               </nav>
-                           </div>
-                           <!-- <div class="header-btn s-header-btn">
-                                            <a href="/request-quote" class="btn"><img src="/img/icon/calculator-symbols02.png" alt="icon">Get A Quote</a>
-                                        </div> -->
-                       </div>
-                   </div>
+                            <!-- .navbar-header start -->
+                            <div class="navbar-header">
+                                <div class="logo">
+                                    <a href="index-2.html">
+                                        {{-- <img src="{{asset('assets/img/logo.png')}}"
+                                            alt="Trucking Transportation and Logistics HTML Template" /> --}}
+                                        <h2 class="fw-bold"><span class="text-primary">Fedex</span> Shipping
+                                            Delivery</h2>
+                                    </a>
+                                </div><!-- .logo end -->
+                            </div><!-- .navbar-header start -->
 
-                   <div class="col-12">
-                       <div class="mobile-menu mean-container">
-                           <div class="mean-bar"><a href="#nav" class="meanmenu-reveal"
-                                   style="right: 0px; left: auto; text-align: center; text-indent: 0px; font-size: 18px;"><span></span><span></span><span></span></a>
-                               <nav class="mean-nav">
-                                   <ul style="display: none;">
-                                       <li><a href="index.html">lorem</a></li>
-                                       <li><a href="tracking.html">Lorem, ipsum dolor.</a></li>
-                                       <li><a href="#">lorem</a>
-                                           <ul class="submenu" style="display: none;">
-                                               <li><a href="service-air.html">lorem 1</a></li>
-                                               <li><a href="service-ocean.html">lorem 2</a></li>
-                                               <li><a href="service-road.html">lorem 3</a></li>
-                                               <li><a href="service-warehousing-and-distribution.html">lorem 4</a></li>
-                                           </ul>
-                                           <a class="mean-expand" href="#" style="font-size: 18px">+</a>
-                                       </li>
-                                       <li><a href="about-us.html">lorem 1</a></li>
-                                       <li><a href="contactus.html">lorem 2</a></li>
-                                   </ul>
-                               </nav>
-                           </div>
-                       </div>
-                   </div>
+                            <!-- MAIN NAVIGATION -->
+                            <div class="collapse navbar-collapse">
+                                <ul class="nav navbar-nav">
+                                    <li class="dropdown current-menu-item">
+                                        <a href="#" data-toggle="dropdown" class="dropdown-toggle">Home</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="index-2.html">Home default</a></li>
+                                            <li><a href="index02.html">Trucking services overview</a></li>
+                                            <li><a href="index03.html">Trucking video slider</a></li>
+                                            <li><a href="index04.html">Trucking home simple</a></li>
+                                            <li><a href="index05.html">Trucking services slider</a></li>
+                                            <li><a href="index06.html">Trucking parallax slider</a></li>
+                                            <li><a href="index07.html">Trucking Vehicle Fleet</a></li>
+                                            <li><a href="index08.html">Trucking corporate</a></li>
+                                            <li><a href="index09.html">Trucking simple slider</a></li>
+                                            <li><a href="index10.html">Fullscreen minimal</a></li>
+                                        </ul><!-- .dropdown-menu end -->
+                                    </li><!-- .dropdown end -->
 
-               </div>
-           </div>
-       </div>
-   </header>
-   <!-- header-start -->
+                                    <li class="dropdown">
+                                        <a href="#" data-toggle="dropdown" class="dropdown-toggle">About</a>
+                                        <ul class="dropdown-menu">
+                                            <li class="dropdown dropdown-submenu">
+                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Header
+                                                    types</a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="index-2.html">Header default</a></li>
+                                                    <li><a href="header-default-top-bar.html">Header default top
+                                                            bar</a></li>
+                                                    <li><a href="index08.html">Header simple light bar</a></li>
+                                                    <li><a href="header-simple-dark-bar.html">Header simple dark
+                                                            bar</a></li>
+                                                    <li><a href="header-simple-dark.html">Header simple dark</a>
+                                                    </li>
+                                                    <li><a href="header-menu-bottom.html">Header menu bottom
+                                                            light</a></li>
+                                                    <li><a href="header-menu-bottom-dark.html">Header menu bottom
+                                                            dark</a></li>
+                                                </ul><!-- .dropdown-menu end -->
+                                            </li>
+                                            <li><a href="about01.html">About simple</a></li>
+                                            <li><a href="about02.html">About compact</a></li>
+                                            <li><a href="about03.html">About with sidebar</a></li>
+                                            <li><a href="simple-page-title.html">Simple page title</a></li>
+                                            <li><a href="company-history.html">Company history</a></li>
+                                            <li><a href="events.html">Company Events</a></li>
+                                            <li><a href="clients.html">Company Clients</a></li>
+                                            <li><a href="careers.html">Careers</a></li>
+                                            <li><a href="driver-application.html">Online driver application</a></li>
+                                        </ul><!-- .dropdown-menu end -->
+                                    </li><!-- .dropdown end -->
+
+                                    <li class="dropdown">
+                                        <a href="#" data-toggle="dropdown" class="dropdown-toggle">Services</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="services01.html">Services overview</a></li>
+                                            <li class="dropdown dropdown-submenu">
+                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Logistics</a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="services02.html">Logistics</a></li>
+                                                    <li><a href="overland-transportation.html">Overland
+                                                            transportation</a></li>
+                                                    <li><a href="air-freight.html">Air freight</a></li>
+                                                    <li><a href="ocean-freight.html">Ocean freight</a></li>
+                                                    <li><a href="large-projects.html">Large projects</a></li>
+                                                    <li><a href="rail-transportation.html">Rail international
+                                                            shipping</a></li>
+                                                    <li><a href="contract-logistics.html">Contract logistics</a>
+                                                    </li>
+                                                </ul><!-- .dropdown-menu end -->
+                                            </li><!-- .dropdown-submenu end -->
+                                            <li><a href="warehousing.html">Warehousing</a></li>
+                                            <li><a href="supply-chain-management.html">Supply chain management</a>
+                                            </li>
+                                            <li><a href="packaging-options.html">Packaging options</a></li>
+                                            <li><a href="consulting-services.html">Consulting services</a></li>
+                                        </ul><!-- .dropdown-menu end -->
+                                    </li><!-- .dropdown end -->
+
+                                    <li class="dropdown">
+                                        <a href="#" data-toggle="dropdown" class="dropdown-toggle">News</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="news-list.html">News list</a></li>
+                                            <li><a href="news-masonry.html">News masonry</a></li>
+                                            <li><a href="news-standard.html">News standard</a></li>
+                                            <li><a href="news-single.html">News single</a></li>
+                                        </ul><!-- .dropdown-menu end -->
+                                    </li><!-- .dropdown end -->
+
+                                    <li class="dropdown">
+                                        <a href="#" data-toggle="dropdown" class="dropdown-toggle">Media</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="gallery01.html">Vehicle gallery full</a></li>
+                                            <li><a href="gallery02.html">Vehicle gallery grid</a></li>
+                                        </ul><!-- .dropdown-menu end -->
+                                    </li><!-- .dropdown end -->
+
+                                    <li><a href="locations.html">Locations</a></li>
+
+                                    <li class="dropdown">
+                                        <a href="#" data-toggle="dropdown" class="dropdown-toggle">Contact</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="contact-simple.html">Contact simple</a></li>
+                                            <li><a href="contact-locations.html">Contact locations</a></li>
+                                        </ul><!-- .dropdown-menu end -->
+                                    </li><!-- .dropdown end -->
+                                </ul><!-- .nav.navbar-nav end -->
+
+                                <!-- RESPONSIVE MENU -->
+                                <div id="dl-menu" class="dl-menuwrapper">
+                                    <button class="dl-trigger">Open Menu</button>
+
+                                    <ul class="dl-menu">
+                                        <li>
+                                            <a href="index-2.html">Home</a>
+                                            <ul class="dl-submenu">
+                                                <li><a href="index-2.html">Home default</a></li>
+                                                <li><a href="index02.html">Trucking services overview</a></li>
+                                                <li><a href="index03.html">Trucking video slider</a></li>
+                                                <li><a href="index04.html">Trucking home simple</a></li>
+                                                <li><a href="index05.html">Trucking services slider</a></li>
+                                                <li><a href="index06.html">Trucking parallax slider</a></li>
+                                                <li><a href="index07.html">Trucking Vehicle Fleet</a></li>
+                                                <li><a href="index08.html">Trucking corporate</a></li>
+                                                <li><a href="index09.html">Trucking simple slider</a></li>
+                                                <li><a href="index10.html">Fullscreen minimal</a></li>
+                                            </ul><!-- dl-submenu end -->
+                                        </li>
+
+                                        <li>
+                                            <a href="#">About</a>
+                                            <ul class="dl-submenu">
+                                                <li>
+                                                    <a href="#">Header types</a>
+                                                    <ul class="dl-submenu">
+                                                        <li><a href="index-2.html">Header default</a></li>
+                                                        <li><a href="header-default-top-bar.html">Header default top
+                                                                bar</a></li>
+                                                        <li><a href="index08.html">Header simple light bar</a></li>
+                                                        <li><a href="header-simple-dark-bar.html">Header simple dark
+                                                                bar</a></li>
+                                                        <li><a href="header-simple-dark.html">Header simple dark</a>
+                                                        </li>
+                                                        <li><a href="header-menu-bottom.html">Header menu bottom
+                                                                light</a></li>
+                                                        <li><a href="header-menu-bottom-dark.html">Header menu
+                                                                bottom dark</a></li>
+                                                    </ul><!-- .dl-submenu end -->
+                                                </li>
+                                                <li><a href="about01.html">About simple</a></li>
+                                                <li><a href="about02.html">About compact</a></li>
+                                                <li><a href="about03.html">About with sidebar</a></li>
+                                                <li><a href="simple-page-title.html">Simple page title</a></li>
+                                                <li><a href="company-history.html">Company history</a></li>
+                                                <li><a href="events.html">Company Events</a></li>
+                                                <li><a href="clients.html">Company Clients</a></li>
+                                                <li><a href="careers.html">Careers</a></li>
+                                                <li><a href="driver-application.html">Online driver application</a>
+                                                </li>
+                                            </ul><!-- dl-submenu end -->
+                                        </li>
+
+                                        <li>
+                                            <a href="#">Services</a>
+                                            <ul class="dl-submenu">
+                                                <li><a href="services01.html">Services overview</a></li>
+                                                <li>
+                                                    <a href="#">Logistics</a>
+                                                    <ul class="dl-submenu">
+                                                        <li><a href="services02.html">Logistics</a></li>
+                                                        <li><a href="overland-transportation.html">Overland
+                                                                transportation</a></li>
+                                                        <li><a href="air-freight.html">Air freight</a></li>
+                                                        <li><a href="ocean-freight.html">Ocean freight</a></li>
+                                                        <li><a href="large-projects.html">Large projects</a></li>
+                                                        <li><a href="rail-transportation.html">Rail international
+                                                                shipping</a></li>
+                                                        <li><a href="contract-logistics.html">Contract logistics</a>
+                                                        </li>
+                                                    </ul><!-- .dl-submenu end -->
+                                                </li>
+                                                <li><a href="warehousing.html">Warehousing</a></li>
+                                                <li><a href="supply-chain-management.html">Supply chain
+                                                        management</a></li>
+                                                <li><a href="packaging-options.html">Packaging options</a></li>
+                                                <li><a href="consulting-services.html">Consulting services</a></li>
+                                            </ul><!-- dl-submenu end -->
+                                        </li>
+
+                                        <li>
+                                            <a href="#">News</a>
+                                            <ul class="dl-submenu">
+                                                <li><a href="news-list.html">News list</a></li>
+                                                <li><a href="news-masonry.html">News masonry</a></li>
+                                                <li><a href="news-standard.html">News standard</a></li>
+                                                <li><a href="news-single.html">News single</a></li>
+                                            </ul><!-- .dl-submenu end -->
+                                        </li>
+
+                                        <li>
+                                            <a href="#">Gallery</a>
+                                            <ul class="dl-submenu">
+                                                <li><a href="gallery01.html">Vehicle gallery full</a></li>
+                                                <li><a href="gallery02.html">Vehicle gallery grid</a></li>
+                                            </ul><!-- .dl-submenu end -->
+                                        </li>
+
+                                        <li><a href="locations.html">Locations</a></li>
+
+                                        <li>
+                                            <a href="#">Contact</a>
+                                            <ul class="dl-submenu">
+                                                <li><a href="contact-simple.html">Contact simple</a></li>
+                                                <li><a href="contact-locations.html">Contact locations</a></li>
+                                            </ul><!-- .dl-submenu end -->
+                                        </li>
+                                    </ul><!-- .dl-menu end -->
+                                </div><!-- #dl-menu end -->
+
+                                <!-- #search start -->
+                                <div id="search">
+                                    <form action="#" method="get">
+                                        <input class="search-submit" type="submit" />
+                                        <input id="m_search" name="s" type="text" placeholder="Type and hit enter..." />
+                                    </form>
+                                </div><!-- #search end -->
+                            </div><!-- MAIN NAVIGATION END -->
+                        </nav><!-- .navbar.navbar-default end -->
+                    </div><!-- .col-md-12 end -->
+                </div><!-- .row end -->
+            </div><!-- .main-nav end -->
+        </div><!-- .container end -->
+    </header><!-- .header.header-style01 -->
+</div><!-- .header-wrapper end -->
