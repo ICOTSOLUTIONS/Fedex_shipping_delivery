@@ -58,7 +58,7 @@ class AuthController extends Controller
             'client.pages.contact-mail',
             [
                 'request'=>$request->req,
-                'f_name'=>$request->f_nmae,
+                'f_name'=>$request->f_name,
                 'l_name'=>$request->l_name,
                 'email'=>$request->email,
                 'messages'=>$request->message,
