@@ -15,6 +15,9 @@ return new class extends Migration
     {
         Schema::create('log_statuses', function (Blueprint $table) {
             $table->id();
+            $table->bigInteger('shipping_id')->unsigned();
+            $table->string('message')->nullable();
+            $table->foreign('shipping_id')->references('id')->on('shippings')->onDelete('cascade');
             $table->timestamps();
         });
     }

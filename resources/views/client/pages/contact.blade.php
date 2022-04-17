@@ -1,5 +1,10 @@
 @extends('client.layout.master')
 @section('content')
+<style>
+    .error{
+        color: red; 
+    }
+</style>
     <div class="page-title-style01 page-title-negative-top pt-bkg02">
         <div class="container">
             <div class="row">
@@ -34,6 +39,12 @@
     <div class="page-content">
         <div class="container">
             <div class="row">
+                @if (Session::has('message'))
+                    <div class="alert alert-{{ Session::get('messageType') }} alert-block">
+                        <button type="button" class="close" data-dismiss="alert">×</button>
+                        <strong>{{ Session::get('message') }} </strong>
+                    </div>
+                @endif
                 <div class="col-md-6">
                     <div class="custom-heading">
                         <h3>lorem</h3>
@@ -66,53 +77,73 @@
 
                 <div class="col-md-6 clearfix">
                     <!-- .contact form start -->
-                    <form class="wpcf7">
+                    <form class="wpcf7" action="{{ route('contact') }}" method="Post">
+                        @csrf
                         <fieldset>
                             <label>
                                 <span class="required">*</span> Your request:
                             </label>
 
-                            <select class="borderform wpcf7-form-control-wrap wpcf7-select" id="contact-inquiry">
-                                <option value="lorem ipsum">lorem ipsum</option>
-                                <option value="I need an offer for air freight">I need an offer for air freight</option>
-                                <option value="lorem ipsum">lorem ipsum lorem ipsum</option>
-                                <option value="lorem ipsum">lorem ipsum</option>
+                            <select class="borderform wpcf7-form-control-wrap wpcf7-select" name="req" id="contact-inquiry">
+                                <option value="">Select Request</option>
+                                <option value="lorem ipsum"
+                                @if (old('req') == 'lorem ipsum') selected @endif
+                                >lorem ipsum</option>
+                                <option value="lorem ipsum1"
+                                @if (old('req') == 'lorem ipsum1') selected @endif
+                                >lorem ipsum1</option>
+                                <option value="lorem ipsum2"
+                                @if (old('req') == 'lorem ipsum2') selected @endif
+                                >lorem ipsum2</option>
+                                <option value="I need an offer for air freight"
+                                @if (old('req') == 'I need an offer for air freight') selected @endif
+                                >I need an offer for air freight</option>
                             </select>
+                            @error('req')
+                                <span class="text-danger error">{{ $message }}</span>
+                            @enderror
                         </fieldset>
-
                         <fieldset>
                             <label>
                                 <span class="required">*</span> First Name:
                             </label>
 
-                            <input type="text" class="borderform wpcf7-text" id="contact-name">
+                            <input type="text" name="f_name" class="borderform wpcf7-text" id="contact-name" value="{{ old('f_name') }}">
+                            @error('f_name')
+                                <span class="text-danger error">{{ $message }}</span>
+                            @enderror
                         </fieldset>
-
                         <fieldset>
                             <label>
                                 <span class="required">*</span> Last Name:
                             </label>
 
-                            <input type="text" class="borderform wpcf7-text" id="contact-last-name">
+                            <input type="text" name="l_name" value="{{ old('l_name') }}" class="borderform wpcf7-text" id="contact-last-name">
+                            @error('l_name')
+                                <span class="text-danger error">{{ $message }}</span>
+                            @enderror
                         </fieldset>
-
                         <fieldset>
                             <label>
                                 <span class="required">*</span> Email:
                             </label>
 
-                            <input type="url" class="borderform wpcf7-text" id="contact-email">
+                            <input type="text" name="email" value="{{ old('email') }}" class="borderform wpcf7-text" id="contact-email">
+                            @error('email')
+                                <span class="text-danger error">{{ $message }}</span>
+                            @enderror
                         </fieldset>
-
                         <fieldset>
                             <label>
                                 <span class="required">*</span> Message:
                             </label>
 
-                            <textarea rows="8" class="borderform wpcf7-textarea" id="contact-message"></textarea>
+                            <textarea rows="8" name="message" class="borderform wpcf7-textarea" id="contact-message">{{ old('message') }}</textarea>
+                            @error('message')
+                                <span class="text-danger error">{{ $message }}</span>
+                            @enderror
                         </fieldset>
-
-                        <input type="submit" class="wpcf7-submit" value="send" />
+                        <button type="submit" class="wpcf7-submit" >Submit</button>
                     </form><!-- .wpcf7 end -->
                 </div><!-- .col-md-6 end -->
             </div><!-- .row end -->
