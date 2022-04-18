@@ -9,7 +9,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1>lorem ipsum lorem ipsum</h1>
+                    <h1>FEDEX DEILVERY SHIPPING TEAM</h1>
 
                     <div class="breadcrumb-container">
                         <ul class="breadcrumb clearfix">
@@ -47,19 +47,16 @@
                 @endif
                 <div class="col-md-6">
                     <div class="custom-heading">
-                        <h3>lorem</h3>
+                        <h3>GET IN TOUCH</h3>
                     </div><!-- .custom-heading.left end -->
 
-                    <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis eligendi saepe magnam
-                        asperiores et illo expedita qui iste ducimus corrupti, natus iusto! Dolorum veritatis cum eum vel!
-                        Porro, rerum impedit!
+                    <p>Fedex Shipping Delivery is an innovative service for effective logistics solution for the delivery of small cargo and large cargo for individuals and enterprises.
                     </p>
 
                     <br />
 
                     <div class="custom-heading">
-                        <h4>Lorem, ipsum.</h4>
+                        <h4>Contact Us</h4>
                     </div><!-- .custom-heading end -->
 
                     <address>
@@ -68,7 +65,7 @@
                     </address>
 
                     <span class="text-big colored">
-                        +00 41 258 489 6587
+                        +1 (757) 392-7189
                     </span>
                     <br />
 

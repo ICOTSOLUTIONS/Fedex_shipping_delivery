@@ -56,11 +56,12 @@
 
                         <a href="mailto:">Fedexshippingdelivery54@gmail.com</a>
                         <br />
-                        <ul class="footer-social-icons">
+                        {{-- <ul class="footer-social-icons">
                             <li><a href="#" class="fa fab-facebook"></a></li>
                             <li><a href="#" class="fa fa-twitter"></a></li>
                             <li><a href="#" class="fa fa-google-plus"></a></li>
-                        </ul><!-- .footer-social-icons end -->
+                        </ul> --}}
+                        <!-- .footer-social-icons end -->
                     </li><!-- .widget.widget-text end -->
                 </ul><!-- .col-md-3.footer-widget-container end -->
             </div><!-- .row end -->

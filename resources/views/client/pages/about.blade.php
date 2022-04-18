@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1>lorem ipsum lorem ipsum</h1>
+                    <h1>ABOUT US</h1>
 
                     <div class="breadcrumb-container">
                         <ul class="breadcrumb clearfix">
@@ -22,98 +22,79 @@
     </div><!-- .page-title-style01.page-title-negative-top end -->
 
 
-    <div class="page-content">
+    <div class="page-content" style="background-color: #ADD8E6; margin-top: -70px;">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <div class="custom-heading">
-                        <h2>lorem ipsum</h2>
+                    <div class="custom-heading3">
+                        <h2 class="none" style="margin-top: 25px !important" >WHO ARE WE?</h2>
                     </div><!-- .custom-heading end -->
 
-                    <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ipsum aut debitis eaque
-                        consequuntur commodi sequi sit ut totam tempore fugit, nulla, nesciunt porro nisi laboriosam optio
-                        nam doloremque repudiandae.
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ipsum aut debitis eaque
-                        consequuntur commodi sequi sit ut totam tempore fugit, nulla, nesciunt porro nisi laboriosam optio
-                        nam doloremque repudiandae.
+                    <p class="fsize">
+                        Fedex Shipping Delivery is a top global provider of transportation and logistics services, with a highly integrated network of people, technology and physical assets.
+
+                        We use our network to help customers manage their goods most efficiently throughout their supply chains. At the top of our value proposition is an intense customer service culture that connects our team worldwide. Our people focus on finding new ways to help our customers succeed, while becoming continuously more efficient ourselves.
+                        
                     </p>
                     
-                    <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ipsum aut debitis eaque
-                        consequuntur commodi sequi sit ut totam tempore fugit, nulla, nesciunt porro nisi laboriosam optio
-                        nam doloremque repudiandae.
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ipsum aut debitis eaque
-                        consequuntur commodi sequi sit ut totam tempore fugit, nulla, nesciunt porro nisi laboriosam optio
-                        nam doloremque repudiandae.
+                    <p class="fsize">
+                        Customer relationships are the lifeblood of our business. However, we never forget that our company has responsibilities to many other stakeholders as well: investors, employees, carriers, business partners, local communities and global society. When we say Let’s Move the World Forward, we’re speaking to the interests of all Trans Atlantic Delivery Line stakeholders, as well as the world at large.
                     </p>
                 </div><!-- .col-md-6 end -->
 
                 <div class="col-md-6 animated triggerAnimation " data-animate="zoomIn">
-                    <img class="radius" src="{{asset('assets/img/pics/shipping02.jpg')}}" alt="" />
+                    <img style="margin-top: 40px" class="radius" src="{{asset('assets/img/pics/shipping02.jpg')}}" alt="" />
                 </div><!-- .col-md-6 end -->
             </div><!-- .row end -->
         </div><!-- .container end -->
     </div><!-- .page-content end -->
 
-    <div class="page-content custom-bkg bkg-light-blue mb-70">
+    <div class="page-content custom-bkg bkg-light-blue ">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
                     <div class="custom-heading">
-                        <h2>our mission</h2>
+                        <h2>TO OUR CUSTOMERS</h2>
                     </div><!-- .custom-heading end -->
 
-                    <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ipsum aut debitis eaque
-                        consequuntur commodi sequi sit ut totam tempore fugit, nulla, nesciunt porro nisi laboriosam optio
-                        nam doloremque repudiandae.
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ipsum aut debitis eaque
-                        consequuntur commodi sequi sit ut totam tempore fugit, nulla, nesciunt porro nisi laboriosam optio
-                        nam doloremque repudiandae.
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ipsum aut debitis eaque
-                        consequuntur commodi sequi sit ut totam tempore fugit, nulla, nesciunt porro nisi laboriosam optio
-                        nam doloremque repudiandae.
+                    <p>Fedex Shipping Delivery is committed to provide the highest level of quality service to our Customers. We aim to be amongst the industry’s top service providers by ensuring:
+                        
+                        <ul class="fa-ul">
+                            <li>
+                                <i class="fa fa-li fa-long-arrow-right"></i>
+                                Unsurpassed customer service of the highest standard
+                            </li>
+    
+                            <li>
+                                <i class="fa fa-li fa-long-arrow-right"></i>
+                        Reasonable and competitive pricing, which is constantly monitored and updated.</li>
+                            <li>
+                                <i class="fa fa-li fa-long-arrow-right"></i>
+                                Personalized service, tailored to our customers specific requirements and needs.
+                            </li>
+    
+                        </ul><!-- .fa-ul end -->
+                       
                     </p>
                 </div><!-- .col-md-6 end -->
 
                 <div class="col-md-6">
                     <div class="custom-heading">
-                        <h2>our promise</h2>
+                        <h2>TO OUR EMPLOYEES</h2>
                     </div><!-- .custom-heading end -->
 
-                    <ul class="fa-ul">
-                        <li>
-                            <i class="fa fa-li fa-long-arrow-right"></i>
-                            lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum.
-                        </li>
-
-                        <li>
-                            <i class="fa fa-li fa-long-arrow-right"></i>
-                            lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum.
-                        </li>
-
-                        <li>
-                            <i class="fa fa-li fa-long-arrow-right"></i>
-                            lorem ipsum lorem  lorem ipsum lorem ipsum lorem ipsum.
-                        </li>
-
-                        <li>
-                            <i class="fa fa-li fa-long-arrow-right"></i>
-                            lorem ipsum lorem ipsum lorem ipsum lorem ipsum.
-                        </li>
-
-                        <li>
-                            <i class="fa fa-li fa-long-arrow-right"></i>
-                            lorem ipsum lorem  ipsum lorem ipsum lorem ipsum.
-                        </li>
-
-                        <li>
-                            <i class="fa fa-li fa-long-arrow-right"></i>
-                            lorem ipsum lorem  lorem  ipsum.
-                        </li>
-                    </ul><!-- .fa-ul end -->
+                    <P>
+                        We are committed to providing a safe and stable working environment to our employees.Every employee is given equal opportunity to learn and for personal growth. Creativity and innovation are encouraged for improving the effectiveness of Trans Atlantic Delivery Line. Employees will be provided the same concern, respect and caring attitude within the organization that they are expected to share externally with every Fedex Shipping Delivery customer.
+                    </P>
                 </div><!-- .col-md-6 end -->
+                <div class="col-md-12 text-center">
+                    <div class="custom-heading2 col-md-12 text-centerg">
+                        <h2>TO OUR PARTNERS and VENDORS</h2>
+                    </div><!-- .custom-heading end -->
+
+                    <P class="text-center">We at Fedex Shipping Delivery are committed to build long term business relationships with our partners.Trans Atlantic Delivery Line will continue to seek opportunities to further develop and expand our range of services and to ensure that we are all well aware of industry changes and developments as and when these arise.
+                    </P>
+                </div>
             </div><!-- .row end -->
         </div><!-- .container end -->
     </div><!-- .page-content.custom-bkg end -->

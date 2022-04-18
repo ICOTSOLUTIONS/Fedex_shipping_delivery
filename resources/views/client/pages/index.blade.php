@@ -6,9 +6,9 @@
     <style>
      
     </style> --}}
-
+    {{-- <h2>Activate Carousel with JavaScript</h2> --}} 
+{{-- 
     <div class="container">
-        {{-- <h2>Activate Carousel with JavaScript</h2> --}}
         <div id="myCarousel" class="carousel slide">
             <!-- Indicators -->
             <ol class="carousel-indicators">
@@ -65,7 +65,7 @@
                 <span class="sr-only">Next</span>
             </a>
         </div>
-    </div>
+    </div> --}}
     <!-- Carousel Default -->
     {{-- <div class="container">
     <div class="row">
@@ -88,18 +88,18 @@
         </div>
     </div>
 </div> --}}
-    {{-- <div class="hero-image">
+    <div class="hero-image">
         <div class="hero-text">
             {{-- <h1 style="font-size:50px">I am John Doe</h1>
             <p>And I'm a Photographer</p>
-            <button>Hire me</button> 
+            <button>Hire me</button> --}}
         </div>
-    </div> --}}
+    </div>
 
-    <div class="page-content parallax parallax01 mb-70">
+    <div class="page-content parallax parallax01 ">
         <div class="container">
             <div class="row services-negative-top">
-                <div class="col-md-4 col-sm-4">
+                <div class="col-md-3 col-sm-3">
                     <div class="service-feature-box">
                         <div class="service-media">
                             <img src="{{ asset('assets/img/pics/img01.jpg') }}" alt="Trucking" />
@@ -114,16 +114,16 @@
 
                         <div class="service-body">
                             <div class="custom-heading">
-                                <h4>Lorem, ipsum.</h4>
+                                <h4>SEA FREIGHT</h4>
                             </div><!-- .custom-heading end -->
 
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam, officia..
-                            </p>
-                        </div><!-- .service-body end -->
+                            <p>Are you shipping with us by sea, relax Fedex Shipping Delivery is bringing your cargo to you safe and secured. Track & Trace to know the status and location of your cargo at the moment.    </p>
+                        </div>
+                        <!-- .service-body end -->
                     </div><!-- .service-feature-box-end -->
                 </div><!-- .col-md-4 end -->
 
-                <div class="col-md-4 col-sm-4">
+                <div class="col-md-3 col-sm-3">
                     <div class="service-feature-box">
                         <div class="service-media">
                             <img src="{{ asset('assets/img/pics/img02.jpg') }}" alt="Trucking" />
@@ -138,17 +138,16 @@
 
                         <div class="service-body">
                             <div class="custom-heading">
-                                <h4>Lorem, ipsum.</h4>
+                                <h4>AIR FREIGHT</h4>
                             </div><!-- .custom-heading end -->
 
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit placeat, ab voluptate
-                                facilis nisi tempora beatae similique modi excepturi maiores?
+                            <p>Are you shipping with us by air, relax Happy Tails Transportation is bringing your cargo to you safe and secured. Track & Trace to know the status and location of your cargo at the moment.   
                             </p>
                         </div><!-- .service-body end -->
                     </div><!-- .service-feature-box-end -->
                 </div><!-- .col-md-4 end -->
 
-                <div class="col-md-4 col-sm-4">
+                <div class="col-md-3 col-sm-3">
                     <div class="service-feature-box">
                         <div class="service-media">
                             <img src="{{ asset('assets/img/pics/img03.jpg') }}" alt="Trucking" />
@@ -163,18 +162,41 @@
 
                         <div class="service-body">
                             <div class="custom-heading">
-                                <h4>Lorem, ipsum.</h4>
+                                <h4>WAREHOUSING</h4>
                             </div><!-- .custom-heading end -->
 
-                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est, cum temporibus rerum
-                                consequuntur ut doloribus.
+                            <p>Is your cargo deleyed or you need a warehouse? Relax Fedex Shipping Delivery Warehouse will keep your cargo safe and secured Contact Us to keep your cargo save and secure in our warehouse.
+                            </p>
+                        </div><!-- .service-body end -->
+                    </div><!-- .service-feature-box-end -->
+                </div><!-- .col-md-4 end -->
+
+                <div class="col-md-3 col-sm-3">
+                    <div class="service-feature-box">
+                        <div class="service-media">
+                            <img src="{{ asset('assets/img/pics/img03.jpg') }}" alt="Trucking" />
+
+                            <a href="air-freight.html" class="read-more02">
+                                <span>
+                                    Read more
+                                    <i class="fa fa-chevron-right"></i>
+                                </span>
+                            </a>
+                        </div><!-- .service-media end -->
+
+                        <div class="service-body">
+                            <div class="custom-heading">
+                                <h4>FORWARDING</h4>
+                            </div><!-- .custom-heading end -->
+
+                            <p>Is your cargo stock or you can't access a destination somewhere? Relax, Contact Us and Fedex Shipping Delivery will take it from there and make sure it reaches it destination safely.
                             </p>
                         </div><!-- .service-body end -->
                     </div><!-- .service-feature-box-end -->
                 </div><!-- .col-md-4 end -->
             </div><!-- .row end -->
 
-            <div class="row">
+            {{-- <div class="row">
                 <div class="col-md-12">
                     <a href="services02.html" class="btn btn-big btn-yellow btn-centered">
                         <span>
@@ -182,108 +204,138 @@
                         </span>
                     </a>
                 </div><!-- .col-md-12 end -->
-            </div><!-- .row end -->
+            </div> --}}
+            <!-- .row end -->
         </div><!-- .container end -->
     </div><!-- .page-content end -->
 
+    {{-- why should you choose start --}}
+<div class="page-content" >
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="custom-heading02">
+                    <h2 style="margin-top: 20px">WHY SHOULD YOU CHOOSE US?.</h2>
+                    {{-- <p>
+                        Lorem, ipsum dolor.
+                    </p> --}}
+                </div><!-- .custom-heading02 end -->
+            </div><!-- .col-md-12 end -->
+        </div><!-- .row end -->
 
+        <div class="row mb-30">
+            <div class="col-md-6 col-sm-6">
+                <div class="service-icon-left-boxed">
+                    <div class="icon-container animated triggerAnimation" data-animate="zoomIn">
+                        <img src="{{ asset('assets/img/svg/pi-checklist-2.svg') }}" alt="checklist icon" />
+                    </div><!-- .icon-container end -->
 
-    <div class="page-content">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="custom-heading02">
-                        <h2>Lorem, ipsum.</h2>
-                        <p>
-                            Lorem, ipsum dolor.
+                    <div class="service-details">
+                        <h3>Cost Effective.</h3>
+
+                        <p>Purchasing power and partnerships with world’s premier carriers. </p>
+                    </div><!-- .service-details end -->
+                </div><!-- .service-icon-left-boxed end -->
+            </div><!-- .col-md-6 end -->
+
+            <div class="col-md-6 col-sm-6">
+                <div class="service-icon-left-boxed">
+                    <div class="icon-container animated triggerAnimation" data-animate="zoomIn">
+                        <img src="{{ asset('assets/img/svg/pi-globe-5.svg') }}" alt="globe icon" />
+                    </div><!-- .icon-container end -->
+
+                    <div class="service-details">
+                        <h3>Reliable</h3>
+
+                        <p>CargoIQ certified, C-TPAT, PIP, and TAPA compliant. Split and full charters. On-time delivery.
                         </p>
-                    </div><!-- .custom-heading02 end -->
-                </div><!-- .col-md-12 end -->
-            </div><!-- .row end -->
+                    </div><!-- .service-details end -->
+                </div><!-- .service-icon-left-boxed end -->
+            </div><!-- .col-md-6 end -->
+        </div><!-- .row.mb-30 end -->
 
-            <div class="row mb-30">
-                <div class="col-md-6 col-sm-6">
-                    <div class="service-icon-left-boxed">
-                        <div class="icon-container animated triggerAnimation" data-animate="zoomIn">
-                            <img src="{{ asset('assets/img/svg/pi-checklist-2.svg') }}" alt="checklist icon" />
-                        </div><!-- .icon-container end -->
+        <div class="row">
+            <div class="col-md-6 col-sm-6">
+                <div class="service-icon-left-boxed">
+                    <div class="icon-container animated triggerAnimation" data-animate="zoomIn">
+                        <img src="{{ asset('assets/img/svg/pi-forklift-truck-5.svg') }}" alt="forktruck icon" />
+                    </div><!-- .icon-container end -->
 
-                        <div class="service-details">
-                            <h3>Lorem, ipsum.</h3>
+                    <div class="service-details">
+                        <h3>Tailored Solutions</h3>
 
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati odio quae quidem
-                                molestiae excepturi labore, nobis reprehenderit facere distinctio quasi?
-                            </p>
-                        </div><!-- .service-details end -->
-                    </div><!-- .service-icon-left-boxed end -->
-                </div><!-- .col-md-6 end -->
+                        <p>Meeting customers’ unique needs with premium service and local expertise. Flexible options, exception management, frequent sailings, and on-time delivery.
+                        </p>
+                    </div><!-- .service-details end -->
+                </div><!-- .service-icon-left-boxed end -->
+            </div><!-- .col-md-6 end -->
+          
+            <div class="col-md-6 col-sm-6">
+                <div class="service-icon-left-boxed">
+                    <div class="icon-container animated triggerAnimation" data-animate="zoomIn">
+                        <img src="{{ asset('assets/img/svg/pi-checklist-2.svg') }}" alt="touch icon" />
+                    </div><!-- .icon-container end -->
 
-                <div class="col-md-6 col-sm-6">
-                    <div class="service-icon-left-boxed">
-                        <div class="icon-container animated triggerAnimation" data-animate="zoomIn">
-                            <img src="{{ asset('assets/img/svg/pi-globe-5.svg') }}" alt="globe icon" />
-                        </div><!-- .icon-container end -->
+                    <div class="service-details">
+                        <h3>Customizable Solutionst</h3>
 
-                        <div class="service-details">
-                            <h3>Lorem ipsum dolor sit.</h3>
+                        <p>Combining straightforward, standardized road freight products with customizable options to meet lead-time and capacity needs.</p>
+                    </div><!-- .service-details end -->
+                </div><!-- .service-icon-left-boxed end -->
+            </div><!-- .col-md-6 end -->
+        </div><!-- .row.mb-30 end -->
+        <div class="row">
+             
+            <div class="col-md-6 col-sm-6">
+                <div class="service-icon-left-boxed">
+                    <div class="icon-container animated triggerAnimation" data-animate="zoomIn">
+                        <img src="{{ asset('assets/img/svg/pi-touch-desktop.svg') }}" alt="touch icon" />
+                    </div><!-- .icon-container end -->
 
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia saepe rem eum expedita eaque
-                                quaerat illum impedit deserunt deleniti a!
-                            </p>
-                        </div><!-- .service-details end -->
-                    </div><!-- .service-icon-left-boxed end -->
-                </div><!-- .col-md-6 end -->
-            </div><!-- .row.mb-30 end -->
+                    <div class="service-details">
+                        <h3>Large Global Footprint</h3>
 
-            <div class="row">
-                <div class="col-md-6 col-sm-6">
-                    <div class="service-icon-left-boxed">
-                        <div class="icon-container animated triggerAnimation" data-animate="zoomIn">
-                            <img src="{{ asset('assets/img/svg/pi-forklift-truck-5.svg') }}" alt="forktruck icon" />
-                        </div><!-- .icon-container end -->
+                        <p>Fedex Shipping Delivery-owned offices throughout the world – including high-growth emerging markets – guarantee we can support our customers, wherever you go.
+                        </p>
+                    </div><!-- .service-details end -->
+                </div><!-- .service-icon-left-boxed end -->
+            </div><!-- .col-md-6 end -->
 
-                        <div class="service-details">
-                            <h3>Lorem, ipsum dolor.</h3>
+            <div class="col-md-6 col-sm-6">
+                <div class="service-icon-left-boxed">
+                    <div class="icon-container animated triggerAnimation" data-animate="zoomIn">
+                        <img src="{{ asset('assets/img/svg/pi-globe-5.svg') }}" alt="forktruck icon" />
+                    </div><!-- .icon-container end -->
 
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit recusandae eius atque
-                                laudantium aut magni architecto cupiditate, vitae incidunt nesciunt.
-                            </p>
-                        </div><!-- .service-details end -->
-                    </div><!-- .service-icon-left-boxed end -->
-                </div><!-- .col-md-6 end -->
+                    <div class="service-details">
+                        <h3>Premium Customer Service</h3>
 
-                <div class="col-md-6 col-sm-6">
-                    <div class="service-icon-left-boxed">
-                        <div class="icon-container animated triggerAnimation" data-animate="zoomIn">
-                            <img src="{{ asset('assets/img/svg/pi-touch-desktop.svg') }}" alt="touch icon" />
-                        </div><!-- .icon-container end -->
+                        <p>Building partnerships by serving customers’ needs with cost-effective, flexible options and on-time delivery.</p>
+                    </div><!-- .service-details end -->
+                </div><!-- .service-icon-left-boxed end -->
+            </div><!-- .col-md-6 end -->
+            
+        </div><!-- .row.mb-30 end -->
+ 
+    </div><!-- .container end -->
+</div>
+{{-- why should you choose end --}}
 
-                        <div class="service-details">
-                            <h3>Lorem, ipsum.</h3>
 
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Totam aliquam maxime reprehenderit
-                                veniam blanditiis odio animi voluptatem rerum laborum excepturi?
-                            </p>
-                        </div><!-- .service-details end -->
-                    </div><!-- .service-icon-left-boxed end -->
-                </div><!-- .col-md-6 end -->
-            </div><!-- .row.mb-30 end -->
-        </div><!-- .container end -->
-    </div><!-- .page-content end -->
-
-    <div class="page-content custom-bkg bkg-dark-blue column-img-bkg dark mb-70">
+    {{-- get us know strat --}}
+    <div class="page-content custom-bkg bkg-dark-blue column-img-bkg dark " >
         <div class="container-fluid">
             <div class="row">
-                <div class="col-md-4 col-md-offset-2 custom-col-padding-both">
-                    <div class="custom-heading">
-                        <h3>Lorem, ipsum.</h3>
+                <div class="col-md-12 text-center custom-col-padding-both">
+                    <div class="custom-heading1 text-center">
+                        <h1>GET TO KNOW US</h1>
+                        <h3>OUR STRENGTHS AND ADVANTAGES</h3>
                     </div><!-- .custom-heading end -->
 
-                    <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, perferendis ipsam accusamus
-                        voluptatem delectus sint! </p>
+                    <p >
+                        At Fedex Shipping Delivery, our CLients satisfaction is our priority so we strive to improve the quality of our services using new technologies and strategies to keep them ever happy. In the competitive world of logistic where cuustomer satifaction and safe delivery of parcels is the key, We have step up the game to our competitors with advance services and technologies to give you reasons why you have to choose us.</p>
 
-                    <ul class="service-list clearfix">
+                    {{-- <ul class="service-list clearfix">
                         <li>
                             <div class="icon-container">
                                 <img class="svg-white" src="{{ asset('assets/img/svg/pi-cargo-box-2.svg') }}"
@@ -338,17 +390,20 @@
                                 Lorem, ipsum dolor.
                             </p>
                         </li>
-                    </ul><!-- .service-list end -->
+                    </ul> --}}
+                    <!-- .service-list end -->
                 </div><!-- .col-md-6 end -->
 
-                <div class="col-md-6 img-bkg01">
+                {{-- <div class="col-md-6 img-bkg01">
                     <div>&nbsp;</div>
-                </div>
+                </div> --}}
             </div><!-- .row end -->
         </div><!-- .container end -->
-    </div><!-- .page-content.bkg-dark-blue end -->
+    </div>
+    {{-- get us know strat --}}
 
-    <div class="page-content">
+
+    {{-- <div class="page-content">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-sm-6">
@@ -496,7 +551,9 @@
                 </div><!-- .col-md-4 end -->
             </div><!-- .row end -->
         </div><!-- .container end -->
-    </div><!-- .page-content end -->
+    </div> --}}
+    
+    <!-- .page-content end -->
 @endsection
 {{-- @push('scripts') --}}
 {{-- @endpush --}}
