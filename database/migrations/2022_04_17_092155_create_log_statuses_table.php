@@ -17,6 +17,7 @@ return new class extends Migration
             $table->id();
             $table->bigInteger('shipping_id')->unsigned();
             $table->string('message')->nullable();
+            $table->date('date')->nullable();
             $table->foreign('shipping_id')->references('id')->on('shippings')->onDelete('cascade');
             $table->timestamps();
         });
