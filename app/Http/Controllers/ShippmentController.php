@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\LogStatus;
 use App\Models\Shipping;
 use Illuminate\Http\Request;
 
@@ -115,26 +116,37 @@ class ShippmentController extends Controller
             session()->flash('messageType', 'fail');
             return redirect()->route('dashboard');
     }
-    public function logStatus(Request $request,)
+    public function logStatus(Request $request)
     {
-        $request->validate([
-            'status'=>'required',
-        ]);
-        // $tracking = Shipping::where('id',$id)->first();
-        // if(!empty($tracking)){
-        //     $tracking->status = 'active';
-        //     if($tracking->save()){
-        //         session()->flash('message', 'Status Change');
-        //         session()->flash('messageType', 'success');
-        //         return redirect()->route('dashboard');
-        //     }else{
-        //         session()->flash('message', 'Status not Change');
-        //         session()->flash('messageType', 'success');
-        //         return redirect()->route('dashboard');
-        //     }
-        // }
-        //     session()->flash('message', 'Action Failed');
-        //     session()->flash('messageType', 'fail');
-        //     return redirect()->route('dashboard');
+        $tracking = Shipping::where('id',$request->id)->first();
+        if(!empty($tracking)){
+                if($request->status == 'Place Order'){
+                    $status = new LogStatus();
+                    $status->shipping_id = $request->id;
+                    $status->message = 'Order Placed';
+                    $status->date = \Carbon\Carbon::now();
+                    $status->save();
+                }
+                if($request->status == 'Picked Up'){
+                    $status = new LogStatus();
+                    $status->shipping_id = $request->id;
+                    $status->message = 'Picked Up';
+                    $status->date = \Carbon\Carbon::now();
+                    $status->save();
+                }
+                if($request->status == 'Delivered'){
+                    $status = new LogStatus();
+                    $status->shipping_id = $request->id;
+                    $status->message = 'Delivered';
+                    $status->date = \Carbon\Carbon::now();
+                    $status->save();
+                }
+                session()->flash('message', 'Status Change');
+                session()->flash('messageType', 'success');
+                return redirect()->route('dashboard');
+            }
+            session()->flash('message', 'Action Failed');
+            session()->flash('messageType', 'fail');
+            return redirect()->route('dashboard');
     }
 }
