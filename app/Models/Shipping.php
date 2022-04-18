@@ -8,4 +8,8 @@ use Illuminate\Database\Eloquent\Model;
 class Shipping extends Model
 {
     use HasFactory;
+    public function status()
+    {
+        return $this->belongsTo(LogStatus::class);
+    }
 }
