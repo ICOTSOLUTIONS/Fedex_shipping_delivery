@@ -1,12 +1,100 @@
 @extends('client.layout.master')
 @section('content')
-    <div class="hero-image">
+    {{-- @push('link')
+      
+    @endpush
+    <style>
+     
+    </style> --}}
+
+    <div class="container">
+        {{-- <h2>Activate Carousel with JavaScript</h2> --}}
+        <div id="myCarousel" class="carousel slide">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li class="item1 active"></li>
+                <li class="item2"></li>
+                <li class="item3"></li>
+                <li class="item4"></li>
+            </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+
+                <div class="item active">
+                    <img src="{{ asset('assets/img/slider/slide01.jpg') }}" alt="Chania" width="460" height="345">
+                    <div class="carousel-caption">
+                        <h3>Chania</h3>
+                        <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <img src="{{ asset('assets/img/slider/slide02.jpg') }}" alt="Chania" width="460" height="345">
+                    <div class="carousel-caption">
+                        <h3>Chania</h3>
+                        <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <img src="{{ asset('assets/img/slider/slide03.jpg') }}" alt="Flower" width="460" height="345">
+                    <div class="carousel-caption">
+                        <h3>Flowers</h3>
+                        <p>Beautiful flowers in Kolymbari, Crete.</p>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <img src="img_flower2.jpg" alt="Flower" width="460" height="345">
+                    <div class="carousel-caption">
+                        <h3>Flowers</h3>
+                        <p>Beautiful flowers in Kolymbari, Crete.</p>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Left and right controls -->
+            <a class="left carousel-control" href="#myCarousel" role="button">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#myCarousel" role="button">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+    <!-- Carousel Default -->
+    {{-- <div class="container">
+    <div class="row">
+        <div id="myCarousel" class="carousel slide vertical">
+            <!-- Carousel items -->
+            <div class="carousel-inner">
+                <div class="active item">
+                    <img src="{{ asset('assets/img/slider/slide01.jpg') }}">
+                </div>
+                <div class="item">
+                    <img src="{{ asset('assets/img/slider/slide02.jpg') }}">
+                </div>
+                <div class="item">
+                    <img src="{{ asset('assets/img/slider/slide03.jpg') }}">
+                </div>
+            </div>
+            <!-- Carousel nav -->
+            <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+            <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+        </div>
+    </div>
+</div> --}}
+    {{-- <div class="hero-image">
         <div class="hero-text">
             {{-- <h1 style="font-size:50px">I am John Doe</h1>
             <p>And I'm a Photographer</p>
-            <button>Hire me</button> --}}
+            <button>Hire me</button> 
         </div>
-    </div>
+    </div> --}}
 
     <div class="page-content parallax parallax01 mb-70">
         <div class="container">
@@ -410,14 +498,5 @@
         </div><!-- .container end -->
     </div><!-- .page-content end -->
 @endsection
-{{-- @push('script')
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
-    </script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js"
-        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
-    </script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"
-        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
-    </script>
-@endpush --}}
+{{-- @push('scripts') --}}
+{{-- @endpush --}}
