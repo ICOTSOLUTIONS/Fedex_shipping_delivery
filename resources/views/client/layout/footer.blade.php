@@ -45,8 +45,10 @@
                         </div>
 
                         <address>
-                            Lorem ipsum dolor sit amet. <br />
-                            Lorem, ipsum dolor.
+                            Suite 205 at 167 Madison Avenue, <br />
+                             New York, 10016, United States
+
+
                         </address>
 
                         <span class="text-big">

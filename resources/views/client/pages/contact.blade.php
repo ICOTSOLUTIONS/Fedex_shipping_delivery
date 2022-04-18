@@ -60,8 +60,8 @@
                     </div><!-- .custom-heading end -->
 
                     <address>
-                        123 Second Street Fifth Avenue, <br />
-                        Manhattan, California
+                        Suite 205 at 167 Madison Avenue, <br />
+                             New York, 10016, United States
                     </address>
 
                     <span class="text-big colored">
