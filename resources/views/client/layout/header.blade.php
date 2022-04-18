@@ -18,10 +18,10 @@
                                         alt="Trucking Transportation and Logistics HTML Template" /> --}}
                                         <h2 class="fw-bold"><span class="text-primary">Fedex</span> Shipping
                                             Delivery</h2>
-                                        <p style="color-black" ><a href="" style="font-weight:bolder;">
+                                        <p style="color-black"><a href="" style="font-weight:bolder;">
                                                 Fedexshippingdelivery54@gmail.com</a></p>
-                                        <p style="color-black" ><a href="" style="font-weight:bolder;"> +1 (757)
-                                                392-7189x</a></p>
+                                        <p style="color-black"><a href="" style="font-weight:bolder;"> +1 (757)
+                                                392-7189</a></p>
                                     </a>
                                 </div><!-- .logo end -->
                             </div><!-- .navbar-header start -->

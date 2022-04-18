@@ -33,6 +33,9 @@
     <!-- Fontawesome icons css -->
 
     <link rel="stylesheet" href="style-switcher/styleSwitcher.css" /><!-- styleswitcher -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
 <style>
     body,
@@ -50,6 +53,12 @@
         background-repeat: no-repeat;
         background-size: cover;
         position: relative;
+    }
+
+    .carousel-inner>.item>img,
+    .carousel-inner>.item>a>img {
+        width: 100%;
+        margin: auto;
     }
 
     /* .hero-text {
@@ -82,8 +91,9 @@
     }
 
     .radius {
-        border-radius: 5% ;
+        border-radius: 5%;
     }
+
 </style>
 
 <body>
@@ -94,7 +104,35 @@
 
 
 
-    @stack('script')
+    {{-- @yield('scripts') --}}
+    <script>
+        $(document).ready(function() {
+            // Activate Carousel
+            $("#myCarousel").carousel();
+
+            // Enable Carousel Indicators
+            $(".item1").click(function() {
+                $("#myCarousel").carousel(0);
+            });
+            $(".item2").click(function() {
+                $("#myCarousel").carousel(1);
+            });
+            $(".item3").click(function() {
+                $("#myCarousel").carousel(2);
+            });
+            $(".item4").click(function() {
+                $("#myCarousel").carousel(3);
+            });
+
+            // Enable Carousel Controls
+            $(".left").click(function() {
+                $("#myCarousel").carousel("prev");
+            });
+            $(".right").click(function() {
+                $("#myCarousel").carousel("next");
+            });
+        });
+    </script>
     <script src="{{ asset('assets/js/jquery-2.1.4.min.js') }}"></script><!-- jQuery library -->
     <script src="{{ asset('assets/js/bootstrap.min.js') }}"></script><!-- .bootstrap script -->
     <script src="{{ asset('assets/js/jquery.srcipts.min.js') }}"></script><!-- modernizr, retina, stellar for parallax -->
